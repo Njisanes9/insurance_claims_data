@@ -1,0 +1,507 @@
+customer_id,first_name,last_name,gender,date_of_birth,province,city,customer_since
+C00306,Elna,Ndlovu,M,1957-04-27,Gauteng,Pretoria,2018-03-06
+C00194,Sipho,Nkosi,F,1983-10-30,Western Cape,Stellenbosch,2025-11-24
+C00066,Elna,Khumalo,M,1966-04-13,Gauteng,Centurion,2019-03-19
+C00350,Tumi,Fourie,M,2002-12-26,Western Cape,,2024-11-27
+C00152,Emma,Zulu,M,1976-06-16,Western Cape,Cape Town,2019-02-05
+C00434,Johan,Sithole,M,2000-04-09,Limpopo,Tzaneen,2026-01-12
+C00162,Mandla,Kruger,M,1993-04-14,Gauteng,Sandton,2021-05-10
+C00130,Zanele,Botha,M,1971-02-03,KwaZulu-Natal,Durban,2026-03-30
+C00270,Zanele,Smit,M,2003-11-19,Eastern Cape,East London,2024-04-21
+C00227,Chris,Nkosi,M,1993-12-05,Eastern Cape,Mthatha,2024-07-18
+C00108,Naledi,Ndlovu,F,1962-07-12,Gauteng,Pretoria,2022-08-21
+C00223,Nomvula,Le Roux,F,1964-06-08,Gauteng,Soweto,2020-07-04
+C00182,Karen,Zulu,F,1989-10-09,Gauteng,Centurion,2021-03-09
+C00276,Kabelo,Nkosi,M,2002-01-01,Free State,Welkom,2022-04-26
+C00278,Susan,Naidoo,M,1966-07-09,Western Cape,Paarl,2025-08-23
+C00263,Ruth,Dlamini,M,1993-03-15,Western Cape,Stellenbosch,2025-04-28
+C00326,Werner,Botha,F,2003-08-31,KwaZulu-Natal,Pietermaritzburg,2021-05-01
+C00185,Emma,Dlamini,F,1976-11-18,KwaZulu-Natal,Richards Bay,2019-03-31
+C00177,Nomvula,Sithole,M,1976-12-28,Limpopo,Polokwane,2019-05-02
+C00155,Sanele,Van der Merwe,M,1955-03-29,Northern Cape,Upington,2024-02-28
+C00158,Pieter,Nkosi,F,1983-10-29,Eastern Cape,Gqeberha,2022-09-03
+C00447,Michael,Mokoena,M,2000-12-26,Gauteng,Pretoria,2019-03-09
+C00115,Vusi,Mahlangu,F,1968-10-31,Western Cape,George,2018-06-04
+C00325,Bongani,Mbeki,M,2000-04-14,Gauteng,Soweto,2018-02-21
+C00193,Precious,Sithole,M,1996-03-02,Western Cape,Paarl,2019-11-14
+C00337,Tumi,Mokoena,F,1956-09-21,Gauteng,Sandton,2024-10-30
+C00008,Susan,Kruger,M,1958-02-16,Limpopo,Polokwane,2020-05-17
+C00459,Mandla,Molefe,M,1966-07-12,Western Cape,Cape Town,2024-06-04
+C00283,David,Mahlangu,M,1967-04-13,KwaZulu-Natal,Pietermaritzburg,2024-10-18
+C00413,Susan,Steyn,M,1962-04-30,KwaZulu-Natal,Pietermaritzburg,2024-03-05
+C00198,Vusi,Botha,M,1986-12-21,Western Cape,Stellenbosch,2020-02-11
+C00228,Ayesha,Mbeki,M,1957-11-06,Western Cape,Paarl,2024-05-19
+C00348,Ruth,Nkosi,F,1994-02-09,Gauteng,Centurion,2018-01-11
+C00044,Elna,Van der Merwe,M,1968-05-04,Gauteng,Johannesburg,2021-11-01
+C00477,Tumi,Naidoo,F,1999-12-24,Western Cape,Paarl,2021-05-16
+C00498,Nomvula,Botha,F,1972-09-04,Gauteng,Johannesburg,2022-07-04
+C00439,Thabo,Smit,M,1969-01-13,Western Cape,Paarl,2019-11-17
+C00292,Zanele,Van der Merwe,M,1958-03-18,Western Cape,,2020-04-06
+C00312,Mandla,Dlamini,M,1962-12-22,Free State,Welkom,2026-07-16
+C00092,Zanele,Mokoena,F,1982-03-16,KwaZulu-Natal,Durban,2025-03-20
+C00229,Johan,Coetzee,F,2000-08-22,Western Cape,Cape Town,2025-03-31
+C00224,Michael,Zulu,F,1979-01-08,KwaZulu-Natal,Durban,2024-03-16
+C00403,Werner,Mahlangu,M,1962-07-04,Western Cape,George,2025-11-29
+C00195,Elna,Coetzee,F,1978-05-22,Western Cape,Cape Town,2022-01-25
+C00048,Tumi,Mahlangu,M,1990-04-03,Western Cape,Paarl,2020-08-25
+C00344,Mandla,Sithole,M,1998-01-15,Western Cape,George,2021-07-18
+C00362,Susan,Mahlangu,M,1957-03-19,KwaZulu-Natal,Richards Bay,2018-10-09
+C00480,Precious,Sithole,M,1987-02-24,Western Cape,Cape Town,2020-02-29
+C00281,Kagiso,Coetzee,F,1969-09-07,Gauteng,Centurion,2020-10-07
+C00025,Kagiso,Fourie,M,1987-01-25,Eastern Cape,Gqeberha,2022-01-16
+C00165,Naledi,Botha,M,1961-09-09,Eastern Cape,East London,2023-07-31
+C00397,Tumi,Coetzee,M,1957-08-26,KwaZulu-Natal,Durban,2024-06-11
+C00231,Naledi,Mahlangu,F,1976-02-11,KwaZulu-Natal,Durban,2025-10-21
+C00099,Emma,Sithole,F,1991-12-01,Limpopo,Polokwane,2023-03-06
+C00480,Precious,Sithole,M,1987-02-24,Western Cape,Cape Town,2020-02-29
+C00261,Werner,Coetzee,M,1989-04-17,Western Cape,Paarl,2025-09-07
+C00120,Werner,Smit,M,1994-04-20,Free State,Bloemfontein,2023-05-22
+C00360,Aisha,Khumalo,M,1964-11-25,Gauteng,Sandton,2022-02-09
+C00311,Karen,Molefe,F,1981-02-17,Limpopo,,2023-04-25
+C00376,Pieter,Coetzee,F,1960-11-29,Mpumalanga,Witbank,2024-03-27
+C00132,Zanele,Steyn,F,1981-02-07,KwaZulu-Natal,Durban,2018-08-16
+C00117,Zanele,Sithole,F,1960-03-25,Limpopo,Polokwane,2018-06-12
+C00164,Emma,Mbeki,M,1996-01-04,Gauteng,Soweto,2023-09-18
+C00258,Karen,Mokoena,M,1957-05-26,Gauteng,Soweto,2018-11-16
+C00176,Chris,Khumalo,M,1979-09-22,Free State,,2022-09-15
+C00140,Susan,Coetzee,F,1967-06-02,KwaZulu-Natal,Richards Bay,2018-06-07
+C00073,Aisha,Naidoo,F,1965-12-12,Mpumalanga,Witbank,2025-09-01
+C00385,Bongani,Sithole,F,1995-06-14,KwaZulu-Natal,,2021-09-23
+C00184,Tumi,Le Roux,M,1977-06-21,Free State,,2020-03-08
+C00254,Mandla,Fourie,F,1956-10-23,Western Cape,Paarl,2026-03-07
+C00448,Mandla,Kruger,M,1993-09-30,Gauteng,Soweto,2022-02-01
+C00296,Precious,Le Roux,F,1969-10-20,Western Cape,George,2019-12-24
+C00487,David,Mokoena,F,1962-12-18,KwaZulu-Natal,Richards Bay,2020-09-13
+C00373,Kagiso,Zulu,M,1996-07-19,Western Cape,Paarl,2021-03-09
+C00101,David,Coetzee,F,2002-03-03,Eastern Cape,East London,2025-06-11
+C00215,Werner,Coetzee,F,1992-01-27,Gauteng,Centurion,2022-07-04
+C00226,Vusi,Khumalo,M,1996-05-03,KwaZulu-Natal,Pietermaritzburg,2022-10-10
+C00386,Sanele,Zulu,M,1961-06-16,Gauteng,Johannesburg,2019-07-26
+C00061,Thabo,Botha,M,1955-06-27,Limpopo,Tzaneen,2025-09-09
+C00191,Werner,Coetzee,M,1985-02-13,Western Cape,Cape Town,2021-09-03
+C00007,Thabo,Kruger,M,1959-07-08,Gauteng,Centurion,2022-10-05
+C00351,Karen,Mokoena,M,1985-10-23,Mpumalanga,Witbank,2021-05-21
+C00332,Bongani,Mahlangu,F,1966-05-02,Mpumalanga,Witbank,2025-03-14
+C00302,Sipho,Mbeki,M,1966-11-18,Western Cape,Stellenbosch,2025-05-29
+C00089,Kabelo,Botha,M,1961-06-24,Western Cape,George,2022-03-12
+C00068,Zanele,Ndlovu,M,1994-08-10,Western Cape,Stellenbosch,2019-09-28
+C00297,Fatima,Pretorius,F,1969-03-18,Gauteng,Sandton,2018-12-18
+C00300,Precious,Dlamini,M,1976-02-19,Free State,Welkom,2022-01-04
+C00334,Ruth,Mbeki,M,1974-05-31,Eastern Cape,Mthatha,2022-07-28
+C00415,Thabo,Mbeki,M,1974-09-25,Eastern Cape,East London,2020-12-08
+C00335,Thabo,Mahlangu,M,1968-02-12,KwaZulu-Natal,Richards Bay,2024-07-04
+C00324,Naledi,Pretorius,M,1963-06-23,KwaZulu-Natal,Durban,2019-01-16
+C00002,Pieter,Khumalo,F,1997-01-27,Eastern Cape,Gqeberha,2019-09-24
+C00327,Susan,Steyn,F,1959-06-19,Mpumalanga,Witbank,2025-07-22
+C00062,Anke,Steyn,F,1961-11-15,KwaZulu-Natal,Pietermaritzburg,2020-09-16
+C00011,Susan,Coetzee,F,1972-10-31,Gauteng,Pretoria,2022-01-02
+C00082,Ayesha,Le Roux,F,1979-07-16,Gauteng,Centurion,2026-01-07
+C00209,Pieter,Mahlangu,M,1975-05-07,Limpopo,Tzaneen,2021-03-12
+C00175,Fatima,Sithole,M,1960-07-28,Gauteng,Sandton,2019-01-27
+C00109,Sanele,Pretorius,M,1964-07-18,Gauteng,Johannesburg,2019-07-02
+C00243,Werner,Mahlangu,F,1977-07-30,Free State,Bloemfontein,2025-06-09
+C00103,Lerato,Steyn,M,1996-03-15,Free State,Bloemfontein,2025-01-03
+C00051,Elna,Zulu,M,1964-03-22,KwaZulu-Natal,Pietermaritzburg,2020-10-30
+C00368,Vusi,Ndlovu,M,1961-10-02,Western Cape,George,2019-11-28
+C00035,Lerato,Mbeki,M,1992-10-22,Gauteng,Johannesburg,2024-03-13
+C00079,Johan,Ndlovu,M,1972-12-29,Gauteng,Soweto,2023-02-22
+C00173,Mandla,Botha,M,1960-11-21,Mpumalanga,Witbank,2024-08-16
+C00492,Nomvula,Zulu,F,1978-05-01,North West,Rustenburg,2022-01-27
+C00309,David,Mbeki,F,1959-05-10,Gauteng,Sandton,2022-11-19
+C00355,Thabo,Smit,M,1972-10-09,Western Cape,Cape Town,2021-05-20
+C00379,Naledi,Khumalo,F,1998-01-27,Gauteng,Sandton,2024-02-04
+C00473,Sipho,Coetzee,M,2002-02-17,Free State,Bloemfontein,2019-01-08
+C00112,Ayesha,Smit,M,1979-09-22,Mpumalanga,Nelspruit,2024-10-20
+C00237,Kagiso,Naidoo,F,1988-11-06,Mpumalanga,Nelspruit,2021-11-05
+C00036,Lerato,Le Roux,M,1977-08-19,Gauteng,Soweto,2025-09-23
+C00382,Thabo,Khumalo,M,1966-12-30,Gauteng,Sandton,2018-04-25
+C00212,Michael,Khumalo,F,2003-10-12,Free State,Bloemfontein,2021-08-23
+C00069,Lerato,Kruger,M,1985-06-22,Western Cape,Paarl,2022-06-03
+C00147,Lerato,Naidoo,F,2000-02-29,Western Cape,George,2024-08-23
+C00488,Bongani,Coetzee,F,1982-08-23,Eastern Cape,Mthatha,2025-03-30
+C00371,Ayesha,Le Roux,F,1977-04-06,Gauteng,Centurion,2019-05-18
+C00342,Sanele,Pretorius,F,1997-02-03,Mpumalanga,Nelspruit,2020-02-03
+C00494,Aisha,Zulu,F,1964-07-30,Eastern Cape,Mthatha,2018-03-26
+C00143,Naledi,Fourie,M,1990-08-30,KwaZulu-Natal,Richards Bay,2024-07-22
+C00027,Vusi,Dlamini,M,1959-06-09,KwaZulu-Natal,Richards Bay,2022-10-19
+C00174,Tumi,Steyn,F,1989-03-17,Limpopo,Tzaneen,2021-10-31
+C00429,Vusi,Le Roux,F,2002-02-28,Mpumalanga,Witbank,2023-03-28
+C00168,Michael,Mbeki,M,1993-01-23,Gauteng,Johannesburg,2018-02-15
+C00319,Kabelo,Mbeki,M,1973-10-13,Western Cape,George,2018-03-01
+C00100,Michael,Mahlangu,F,1975-03-21,Western Cape,Cape Town,2025-12-13
+C00308,Sanele,Mbeki,M,1956-07-13,Gauteng,Soweto,2024-01-23
+C00405,Mandla,Kruger,F,1987-04-04,Eastern Cape,East London,2023-02-23
+C00275,Karen,Le Roux,M,1977-01-13,Western Cape,Paarl,2021-08-10
+C00253,Kagiso,Kruger,F,1976-10-12,Mpumalanga,Nelspruit,2025-01-21
+C00442,Vusi,Steyn,F,1994-01-29,Limpopo,Tzaneen,2020-01-05
+C00071,Mandla,Fourie,M,1969-08-22,Gauteng,Sandton,2021-09-25
+C00303,Johan,Naidoo,F,1991-06-16,Gauteng,Soweto,2020-11-02
+C00277,David,Naidoo,F,1971-12-28,Western Cape,Cape Town,2025-09-12
+C00387,Sanele,Kruger,F,1995-11-19,KwaZulu-Natal,Richards Bay,2026-03-07
+C00419,Karen,Molefe,F,1994-06-13,Western Cape,Stellenbosch,2019-09-12
+C00081,Chris,Khumalo,F,1970-09-13,Free State,Bloemfontein,2026-05-04
+C00441,Karen,Dlamini,F,1956-12-02,Gauteng,Pretoria,2020-11-19
+C00444,Naledi,Steyn,F,1974-02-11,Northern Cape,Kimberley,2020-06-16
+C00153,Kabelo,Naidoo,F,2001-07-04,KwaZulu-Natal,,2026-01-12
+C00418,Bongani,Fourie,F,1987-02-14,Eastern Cape,Gqeberha,2020-08-13
+C00127,Bongani,Ndlovu,F,1976-04-05,Western Cape,George,2021-04-04
+C00262,Zanele,Zulu,M,1987-11-29,Gauteng,Centurion,2021-07-24
+C00057,Lerato,Khumalo,F,1987-11-20,KwaZulu-Natal,Richards Bay,2022-03-18
+C00038,Zanele,Khumalo,F,1976-11-11,Western Cape,Stellenbosch,2020-01-19
+C00067,Mandla,Le Roux,F,1970-03-10,Western Cape,Stellenbosch,2025-02-13
+C00428,Ruth,Pretorius,F,1988-08-02,Gauteng,Soweto,2022-08-17
+C00013,Elna,Zulu,F,1972-12-19,Free State,Bloemfontein,2026-04-21
+C00098,Lerato,Sithole,M,1966-05-26,KwaZulu-Natal,Pietermaritzburg,2024-07-25
+C00131,Themba,Kruger,M,1964-11-30,Eastern Cape,Gqeberha,2024-11-25
+C00478,Themba,Ndlovu,M,1997-11-18,Northern Cape,Kimberley,2026-03-15
+C00346,Zanele,Zulu,F,1993-05-14,KwaZulu-Natal,Pietermaritzburg,2021-10-24
+C00085,Mandla,Coetzee,F,1992-07-18,Eastern Cape,Gqeberha,2022-12-27
+C00393,Emma,Steyn,M,1961-12-26,Northern Cape,Upington,2025-01-08
+C00150,Sanele,Pretorius,F,1972-11-05,Western Cape,Stellenbosch,2020-09-07
+C00102,Mandla,Le Roux,F,1977-03-29,Gauteng,Centurion,2020-04-22
+C00445,Aisha,Botha,F,1956-04-17,Gauteng,Sandton,2021-08-18
+C00457,Michael,Mahlangu,M,1970-11-12,Western Cape,Cape Town,2024-10-03
+C00443,Aisha,Khumalo,F,1984-08-22,Free State,Welkom,2018-12-29
+C00452,Naledi,Fourie,M,1988-08-15,Eastern Cape,East London,2018-01-04
+C00189,Thabo,Van der Merwe,F,1999-10-10,Western Cape,Stellenbosch,2022-01-26
+C00077,Johan,Van der Merwe,F,2001-06-10,North West,Rustenburg,2020-01-26
+C00315,Nomvula,Mokoena,F,1990-12-22,Western Cape,Cape Town,2024-12-23
+C00148,Kagiso,Kruger,M,1987-11-22,Western Cape,Cape Town,2024-05-02
+C00331,Anke,Coetzee,F,1957-07-18,Gauteng,Johannesburg,2023-02-10
+C00389,Naledi,Smit,F,1997-11-04,Gauteng,Centurion,2018-04-05
+C00239,Pieter,Molefe,M,1963-05-06,Gauteng,Johannesburg,2024-01-13
+C00114,Mandla,Mbeki,M,1966-08-08,Gauteng,Sandton,2023-07-07
+C00310,Bongani,Botha,F,1983-12-03,Limpopo,Polokwane,2022-03-29
+C00369,Ruth,Nkosi,M,1995-01-04,Gauteng,Soweto,2025-04-04
+C00053,Werner,Nkosi,M,1969-09-13,Gauteng,Pretoria,2025-12-09
+C00028,Karen,Pretorius,F,1969-11-23,Gauteng,Centurion,2020-12-25
+C00430,Themba,Zulu,M,1976-10-02,North West,Potchefstroom,2025-04-09
+C00065,Ruth,Dlamini,M,1985-02-12,Gauteng,Sandton,2025-11-10
+C00110,Bongani,Dlamini,M,1957-08-13,KwaZulu-Natal,Durban,2022-06-06
+C00156,Pieter,Molefe,M,2001-08-11,Gauteng,Sandton,2020-04-29
+C00464,Ayesha,Molefe,M,1955-01-10,Western Cape,,2025-04-20
+C00111,Michael,Botha,M,1995-08-02,Western Cape,Stellenbosch,2020-09-23
+C00039,Themba,Kruger,M,1984-10-02,KwaZulu-Natal,Durban,2021-02-07
+C00106,Naledi,Mbeki,M,1970-03-17,Gauteng,Johannesburg,2025-11-08
+C00416,Vusi,Smit,F,1975-01-01,Western Cape,Cape Town,2020-03-21
+C00232,Fatima,Molefe,F,1983-10-09,Limpopo,Tzaneen,2021-04-19
+C00213,Lerato,Dlamini,M,1962-01-22,Eastern Cape,Mthatha,2024-01-20
+C00432,Elna,Naidoo,F,1979-01-01,KwaZulu-Natal,Durban,2024-12-22
+C00076,Ayesha,Naidoo,F,1959-08-18,Free State,Bloemfontein,2021-04-05
+C00295,Sanele,Nkosi,M,1977-01-06,Eastern Cape,Gqeberha,2019-10-11
+C00220,David,Sithole,F,1958-12-03,Free State,Welkom,2018-05-10
+C00122,Tumi,Mahlangu,M,1981-04-08,KwaZulu-Natal,Durban,2026-04-19
+C00267,Thabo,Le Roux,M,1975-10-27,Eastern Cape,East London,2024-12-05
+C00280,Precious,Kruger,F,1983-12-13,Eastern Cape,East London,2018-03-20
+C00070,Susan,Steyn,F,1967-07-18,North West,Rustenburg,2019-07-21
+C00161,Kagiso,Ndlovu,M,1980-04-06,Western Cape,George,2025-11-18
+C00380,Sanele,Botha,F,1996-09-19,Mpumalanga,Witbank,2024-05-30
+C00341,Fatima,Zulu,M,1988-06-01,Gauteng,Sandton,2019-09-18
+C00059,Elna,Ndlovu,M,2001-09-26,Gauteng,Centurion,2020-11-05
+C00304,Chris,Coetzee,F,2000-08-04,gauteng,Johannesburg,2022-03-31
+C00218,Sanele,Mbeki,F,1996-02-12,Northern Cape,Kimberley,2023-08-03
+C00058,Elna,Pretorius,F,2000-12-15,KwaZulu-Natal,Pietermaritzburg,2022-08-27
+C00088,Naledi,Sithole,F,1961-01-23,Mpumalanga,Nelspruit,2018-09-11
+C00171,Kagiso,Coetzee,F,2002-03-14,Limpopo,Polokwane,2020-01-18
+C00433,Sanele,Kruger,M,1974-09-27,Gauteng,Sandton,2025-10-31
+C00481,Mandla,Botha,F,1991-07-21,KwaZulu-Natal,Pietermaritzburg,2022-09-23
+C00282,Kagiso,Mokoena,F,1962-08-14,Mpumalanga,Witbank,2018-01-05
+C00093,Sanele,Dlamini,F,1991-09-11,Gauteng,Pretoria,2021-08-06
+C00200,Elna,Mokoena,M,1985-09-04,Western Cape,George,2026-04-03
+C00107,Tumi,Ndlovu,M,1962-08-21,Gauteng,Sandton,2020-06-11
+C00030,Werner,Sithole,F,1996-10-26,Gauteng,Pretoria,2025-01-19
+C00301,Karen,Van der Merwe,M,1966-03-22,Gauteng,Centurion,2020-10-07
+C00192,Ayesha,Molefe,F,1984-12-09,KwaZulu-Natal,Richards Bay,2026-05-03
+C00265,Elna,Mokoena,M,1981-12-07,Gauteng,Pretoria,2025-08-10
+C00219,Precious,Nkosi,F,1996-04-22,Western Cape,Paarl,2021-05-15
+C00018,Johan,Kruger,M,1989-04-25,Western Cape,Paarl,2024-08-03
+C00333,Johan,Naidoo,M,1964-01-29,KwaZulu-Natal,Durban,2022-10-01
+C00003,Mandla,Kruger,M,1991-01-20,Northern Cape,Kimberley,2024-07-13
+C00060,Bongani,Zulu,F,1980-07-06,Western Cape,Cape Town,2020-06-10
+C00064,Johan,Dlamini,M,1987-04-25,Eastern Cape,Mthatha,2026-01-21
+C00026,Mandla,Mahlangu,M,1982-09-12,Free State,Bloemfontein,2022-12-06
+C00476,Ayesha,Botha,M,2003-07-13,Gauteng,Centurion,2026-06-23
+C00246,David,Botha,F,2002-07-10,Northern Cape,Kimberley,2019-04-28
+C00384,Precious,Mahlangu,M,1980-05-14,KwaZulu-Natal,Durban,2021-11-16
+C00460,Karen,Smit,M,1994-04-09,KwaZulu-Natal,Richards Bay,2019-11-27
+C00241,Sipho,Le Roux,M,2003-04-04,Western Cape,,2024-07-14
+C00021,Naledi,Naidoo,M,1994-06-11,Gauteng,Johannesburg,2018-01-24
+C00455,Mandla,Fourie,F,1969-07-21,Western Cape,Cape Town,2021-12-16
+C00188,Pieter,Molefe,M,2001-02-02,Gauteng,Soweto,2021-12-17
+C00208,Werner,Dlamini,M,1991-05-24,Gauteng,Soweto,2021-09-30
+C00294,Karen,Le Roux,F,1960-06-20,Western Cape,Stellenbosch,2024-09-02
+C00167,Bongani,Ndlovu,M,1977-03-19,Gauteng,Sandton,2019-03-25
+C00475,Werner,Fourie,M,1957-12-30,Limpopo,Tzaneen,2021-06-02
+C00242,Aisha,Mbeki,M,1999-04-07,Eastern Cape,Mthatha,2020-06-11
+C00363,Ruth,Le Roux,M,1988-01-02,Eastern Cape,East London,2022-04-02
+C00125,David,Pretorius,M,1963-02-03,Western Cape,George,2021-07-30
+C00196,Emma,Ndlovu,M,1966-01-20,KwaZulu-Natal,Durban,2021-01-04
+C00328,Michael,Mahlangu,F,1981-04-10,KwaZulu-Natal,Richards Bay,2019-07-26
+C00250,Ayesha,Naidoo,M,2003-04-18,Western Cape,Cape Town,2020-10-16
+C00105,Naledi,Zulu,F,1964-06-03,Gauteng,Centurion,2025-01-28
+C00374,Werner,Zulu,M,1974-11-03,Free State,Welkom,2018-04-05
+C00318,Johan,Naidoo,F,1970-07-26,Gauteng,Sandton,2025-05-25
+C00317,David,Steyn,M,1980-04-03,Gauteng,Pretoria,2021-07-21
+C00352,Lerato,Mahlangu,M,1970-08-21,KwaZulu-Natal,Durban,2022-11-26
+C00313,Pieter,Pretorius,M,1967-03-06,Gauteng,Pretoria,2025-11-19
+C00289,Ruth,Molefe,F,2000-10-19,KwaZulu-Natal,Durban,2021-09-18
+C00037,Anke,Mokoena,F,1979-05-16,Gauteng,Sandton,2023-12-23
+C00139,Emma,Mokoena,F,2000-08-21,Free State,Welkom,2026-02-12
+C00320,Kabelo,Molefe,M,1963-02-09,Eastern Cape,Mthatha,2025-04-02
+C00279,Mandla,Mbeki,F,2003-03-21,KwaZulu-Natal,Pietermaritzburg,2024-05-15
+C00359,Ruth,Botha,F,1971-11-06,Mpumalanga,Nelspruit,2020-05-21
+C00020,Ayesha,Molefe,F,1969-02-16,Eastern Cape,East London,2023-06-19
+C00211,Sipho,Khumalo,F,1979-08-03,Western Cape,Cape Town,2026-03-23
+C00472,Emma,Mahlangu,F,1973-01-10,Gauteng,Johannesburg,2023-05-15
+C00495,Fatima,Mahlangu,F,1975-04-29,Gauteng,Sandton,2019-10-11
+C00449,Ayesha,Khumalo,M,1977-03-06,Eastern Cape,East London,2018-12-17
+C00466,Thabo,Mahlangu,F,1995-05-03,Gauteng,Centurion,2018-03-24
+C00121,Johan,Kruger,M,1991-03-20,Free State,Bloemfontein,2019-02-26
+C00470,Thabo,Fourie,M,1967-08-13,Free State,Bloemfontein,2019-09-24
+C00411,Pieter,Sithole,M,1972-09-12,Western Cape,,2026-02-17
+C00133,Lerato,Zulu,M,1956-09-21,Eastern Cape,Mthatha,2019-09-27
+C00203,Anke,Pretorius,M,1967-01-19,Free State,Welkom,2020-09-12
+C00400,Bongani,Naidoo,F,1955-02-11,Northern Cape,Upington,2020-05-29
+C00190,Precious,Smit,F,1960-11-03,Gauteng,Pretoria,2026-02-18
+C00199,Sipho,Mokoena,M,1964-08-26,KwaZulu-Natal,Pietermaritzburg,2021-09-14
+C00248,Mandla,Sithole,F,1971-12-24,Gauteng,Centurion,2020-07-22
+C00006,Pieter,Ndlovu,F,1986-07-20,Limpopo,Polokwane,2022-09-06
+C00149,Bongani,Khumalo,M,1986-02-03,Free State,Welkom,2020-04-27
+C00381,Aisha,Ndlovu,F,1990-04-12,KwaZulu-Natal,Pietermaritzburg,2020-02-18
+C00377,Fatima,Le Roux,M,1963-09-18,Gauteng,,2025-04-06
+C00435,Zanele,Kruger,F,2003-11-04,Free State,Bloemfontein,2024-07-24
+C00205,Zanele,Naidoo,M,1997-07-23,Gauteng,Sandton,2025-03-23
+C00388,Fatima,Le Roux,F,1963-01-06,KwaZulu-Natal,Pietermaritzburg,2026-03-28
+C00022,Johan,Naidoo,M,1993-07-24,Eastern Cape,East London,2022-01-17
+C00330,Johan,Smit,M,1969-06-11,Eastern Cape,East London,2026-05-20
+C00128,Mandla,Kruger,M,1988-08-08,Western Cape,Cape Town,2024-10-20
+C00050,Mandla,Kruger,F,1959-02-20,Western Cape,Cape Town,2024-10-02
+C00356,Susan,Pretorius,M,1961-06-04,Gauteng,Pretoria,2020-08-22
+C00366,Sanele,Dlamini,M,1999-03-08,Northern Cape,Kimberley,2023-04-09
+C00401,Vusi,Mbeki,M,1974-06-24,Gauteng,Sandton,2021-12-07
+C00490,Karen,Kruger,F,1998-10-31,Eastern Cape,Mthatha,2024-09-04
+C00252,Bongani,Botha,M,1959-02-27,KwaZulu-Natal,Richards Bay,2022-08-21
+C00288,Bongani,Steyn,M,1959-12-29,Eastern Cape,Mthatha,2020-09-26
+C00417,Ruth,Steyn,F,1970-12-02,Gauteng,Sandton,2023-09-23
+C00399,Emma,Dlamini,M,1969-01-27,Western Cape,Stellenbosch,2023-06-26
+C00118,Mandla,Steyn,M,2000-04-26,Gauteng,Pretoria,2025-03-08
+C00271,Chris,Nkosi,F,1979-04-18,Western Cape,George,2025-11-08
+C00298,Zanele,Le Roux,M,1997-04-11,Gauteng,Johannesburg,2018-12-15
+C00001,Thabo,Mahlangu,F,1987-01-28,Free State,Bloemfontein,2021-10-07
+C00316,David,Van der Merwe,M,1970-08-08,Free State,Welkom,2018-12-21
+C00056,Ruth,Ndlovu,F,1978-08-20,Free State,Welkom,2018-07-23
+C00496,Sipho,Le Roux,F,1975-09-19,Gauteng,Soweto,2018-09-01
+C00458,Aisha,Mokoena,F,1995-10-11,Limpopo,Polokwane,2026-01-13
+C00391,Themba,Dlamini,M,1958-07-08,KwaZulu-Natal,Durban,2021-12-28
+C00084,Lerato,Botha,M,1988-03-16,Gauteng,Sandton,2020-07-18
+C00305,Bongani,Smit,M,1964-05-17,Eastern Cape,Mthatha,2019-04-17
+C00206,Elna,Ndlovu,F,1957-09-21,Western Cape,George,2022-11-07
+C00427,Tumi,Ndlovu,F,1980-06-15,Northern Cape,Upington,2021-06-06
+C00440,Vusi,Smit,F,1994-12-27,Limpopo,Tzaneen,2022-11-25
+C00187,Johan,Naidoo,F,1967-08-14,Eastern Cape,East London,2023-07-28
+C00087,Sanele,Van der Merwe,F,1995-06-22,Eastern Cape,East London,2019-02-15
+C00047,Michael,Sithole,F,1955-12-16,Limpopo,Polokwane,2024-07-05
+C00340,Precious,Fourie,M,1988-06-12,Gauteng,Johannesburg,2021-02-01
+C00163,Thabo,Botha,M,1988-07-17,Mpumalanga,Witbank,2020-06-08
+C00299,Ruth,Dlamini,F,1956-06-07,KwaZulu-Natal,Durban,2020-11-09
+C00497,Johan,Dlamini,F,1963-11-01,Limpopo,Polokwane,2020-10-01
+C00426,Lerato,Khumalo,F,1967-07-02,KwaZulu-Natal,Durban,2018-07-20
+C00465,Fatima,Khumalo,M,1971-07-27,Gauteng,Pretoria,2023-08-07
+C00347,Elna,Sithole,M,1989-04-11,Mpumalanga,Nelspruit,2025-06-05
+C00259,Nomvula,Pretorius,M,1976-09-29,Limpopo,Polokwane,2018-01-15
+C00138,Elna,Khumalo,M,1994-03-31,gauteng,Pietermaritzburg,2021-10-27
+C00375,Susan,Naidoo,F,1984-07-26,Gauteng,Pretoria,2026-01-29
+C00461,Naledi,Zulu,M,1982-12-04,Gauteng,Johannesburg,2025-07-18
+C00197,Naledi,Kruger,M,1981-10-21,Eastern Cape,East London,2023-07-24
+C00181,Nomvula,Mbeki,F,1965-09-27,Gauteng,Pretoria,2025-08-02
+C00010,Kabelo,Nkosi,M,2002-07-26,Mpumalanga,Witbank,2023-10-26
+C00260,Tumi,Mahlangu,F,1980-03-20,Eastern Cape,Mthatha,2022-07-21
+C00033,Pieter,Van der Merwe,F,1975-01-19,Eastern Cape,Gqeberha,2021-06-27
+C00409,Sanele,Steyn,F,1991-07-30,Mpumalanga,Witbank,2024-06-07
+C00264,Anke,Mokoena,F,1969-08-25,KwaZulu-Natal,Pietermaritzburg,2021-11-08
+C00486,Michael,Smit,F,1982-07-02,Western Cape,George,2024-06-22
+C00104,Naledi,Mbeki,M,1960-02-28,Gauteng,Pretoria,2022-01-29
+C00040,Zanele,Mbeki,M,1959-04-18,Gauteng,Centurion,2020-11-28
+C00029,Themba,Naidoo,M,1968-07-20,Gauteng,Centurion,2021-07-04
+C00216,Lerato,Coetzee,M,1963-01-09,Gauteng,Johannesburg,2021-08-02
+C00425,Fatima,Coetzee,M,1983-07-16,North West,Potchefstroom,2023-03-27
+C00170,Thabo,Ndlovu,M,1955-04-08,Gauteng,Sandton,2025-01-13
+C00469,Mandla,Nkosi,M,1981-09-26,Western Cape,Cape Town,2024-05-01
+C00336,Elna,Pretorius,M,2003-03-11,Western Cape,Cape Town,2025-12-06
+C00207,Karen,Naidoo,F,1990-10-23,Gauteng,Sandton,2020-09-10
+C00154,Emma,Botha,F,1993-03-27,Western Cape,George,2019-03-15
+C00500,Ayesha,Kruger,M,1965-01-24,Mpumalanga,Nelspruit,2018-04-12
+C00031,Vusi,Kruger,F,1999-12-20,Western Cape,George,2020-07-09
+C00256,Sanele,Coetzee,M,1989-12-13,Free State,Bloemfontein,2018-01-26
+C00329,Chris,Le Roux,F,1976-11-29,Gauteng,Centurion,2023-02-07
+C00214,Nomvula,Zulu,F,1974-01-02,Eastern Cape,East London,2020-11-11
+C00137,Naledi,Nkosi,F,2002-01-14,Gauteng,Soweto,2026-03-25
+C00424,Sipho,Dlamini,M,1964-12-03,KwaZulu-Natal,Richards Bay,2022-09-08
+C00436,Werner,Fourie,F,1992-05-14,KwaZulu-Natal,Durban,2023-05-17
+C00169,Zanele,Van der Merwe,F,1999-07-26,Eastern Cape,Gqeberha,2018-04-24
+C00493,Michael,Coetzee,F,1978-03-26,Gauteng,Sandton,2023-01-10
+C00230,Sanele,Mokoena,M,1978-08-25,Free State,Bloemfontein,2023-11-30
+C00225,Themba,Pretorius,M,1968-03-05,gauteng,Sandton,2020-02-03
+C00172,Mandla,Zulu,M,1996-08-15,Gauteng,Johannesburg,2023-09-29
+C00395,David,Fourie,M,1988-05-31,Mpumalanga,Nelspruit,2020-12-05
+C00268,Emma,Le Roux,F,2003-12-10,Western Cape,George,2024-08-26
+C00116,Mandla,Zulu,F,1973-04-22,KwaZulu-Natal,Durban,2025-09-01
+C00398,Mandla,Pretorius,M,1993-11-21,Gauteng,Centurion,2019-10-23
+C00049,Sanele,Nkosi,M,1959-08-22,KwaZulu-Natal,Richards Bay,2023-07-30
+C00451,Bongani,Coetzee,F,1966-12-09,KwaZulu-Natal,Pietermaritzburg,2022-04-19
+C00412,Kagiso,Mbeki,F,1972-12-13,Eastern Cape,Mthatha,2021-05-20
+C00404,Thabo,Mokoena,F,1970-08-22,Eastern Cape,Mthatha,2024-03-05
+C00083,Kabelo,Le Roux,F,1968-09-07,Gauteng,Pretoria,2019-02-18
+C00096,Johan,Naidoo,F,1993-06-15,Gauteng,Johannesburg,2023-09-11
+C00068,Zanele,Ndlovu,M,1994-08-10,Western Cape,,2019-09-28
+C00323,Ruth,Khumalo,F,1987-11-04,Gauteng,Soweto,2023-12-13
+C00097,Nomvula,Le Roux,F,1967-04-11,Limpopo,Polokwane,2024-11-02
+C00023,Michael,Mahlangu,M,1982-03-24,Free State,Bloemfontein,2021-12-09
+C00255,Tumi,Zulu,M,2000-08-25,Gauteng,Johannesburg,2023-10-18
+C00245,Themba,Botha,F,2002-02-12,KwaZulu-Natal,Richards Bay,2023-08-12
+C00392,Aisha,Botha,F,1974-08-16,KwaZulu-Natal,Pietermaritzburg,2023-09-01
+C00358,Nomvula,Dlamini,M,1966-12-08,Gauteng,Centurion,2022-01-22
+C00160,Sanele,Dlamini,F,1969-06-22,Western Cape,George,2020-09-15
+C00390,Pieter,Steyn,F,1960-10-30,Mpumalanga,Nelspruit,2018-01-06
+C00145,Sipho,Van der Merwe,M,1996-05-29,North West,Potchefstroom,2019-01-11
+C00210,Fatima,Kruger,F,1962-07-12,KwaZulu-Natal,Pietermaritzburg,2023-09-26
+C00462,Sipho,Mbeki,M,1959-09-16,Gauteng,Pretoria,2020-08-22
+C00406,Johan,Mokoena,F,1978-03-02,North West,Rustenburg,2022-07-06
+C00091,Sipho,Coetzee,M,1979-06-18,Mpumalanga,Witbank,2018-03-19
+C00042,Kagiso,Naidoo,M,1968-01-11,North West,Potchefstroom,2020-04-05
+C00234,Zanele,Coetzee,M,1960-02-22,Western Cape,Paarl,2026-07-26
+C00338,Emma,Mbeki,F,1980-06-29,Western Cape,George,2026-01-23
+C00378,Michael,Khumalo,F,1963-10-18,Western Cape,Paarl,2018-07-12
+C00467,Sipho,Kruger,M,1968-02-26,Limpopo,Polokwane,2025-01-23
+C00367,Elna,Coetzee,F,1983-11-04,North West,Potchefstroom,2018-08-14
+C00054,Tumi,Pretorius,M,1983-06-22,Western Cape,George,2023-04-04
+C00179,Michael,Kruger,M,1980-08-09,Eastern Cape,East London,2026-05-30
+C00274,Chris,Naidoo,M,1955-11-13,Western Cape,Paarl,2026-04-07
+C00468,Kabelo,Pretorius,F,1981-05-29,Limpopo,Tzaneen,2018-05-17
+C00402,Pieter,Mokoena,M,1961-04-28,Gauteng,Pretoria,2024-10-04
+C00052,David,Coetzee,M,1962-01-30,Gauteng,Johannesburg,2019-07-04
+C00015,Kagiso,Fourie,M,1977-09-07,Gauteng,Johannesburg,2019-02-12
+C00450,Karen,Botha,F,1995-10-18,Gauteng,Sandton,2019-05-04
+C00339,Karen,Le Roux,F,1987-03-20,Mpumalanga,Witbank,2021-05-22
+C00341,Fatima,Zulu,M,1988-06-01,Gauteng,Sandton,2019-09-18
+C00273,Themba,Coetzee,M,1972-03-11,Gauteng,Pretoria,2019-09-26
+C00286,Lerato,Molefe,M,1994-12-02,Mpumalanga,Nelspruit,2020-04-16
+C00004,Ayesha,Coetzee,F,1993-07-08,Gauteng,Johannesburg,2025-03-16
+C00024,Karen,Fourie,F,1982-11-14,Gauteng,Sandton,2020-02-09
+C00129,Vusi,Botha,M,1996-11-09,Mpumalanga,Witbank,2022-02-16
+C00166,Kagiso,Zulu,F,1959-06-07,Mpumalanga,Witbank,2025-05-30
+C00202,Ruth,Kruger,M,2000-02-19,KwaZulu-Natal,Pietermaritzburg,2024-04-17
+C00046,Nomvula,Smit,F,1969-12-29,KwaZulu-Natal,Richards Bay,2022-09-11
+C00489,Kabelo,Botha,M,1955-06-19,Gauteng,Johannesburg,2019-10-28
+C00354,Anke,Le Roux,F,2000-11-01,Western Cape,Paarl,2018-08-01
+C00236,Thabo,Kruger,F,1971-08-09,Gauteng,Sandton,2020-03-23
+C00456,Anke,Fourie,M,1975-10-25,Gauteng,Centurion,2021-03-01
+C00238,Johan,Van der Merwe,F,1970-01-26,KwaZulu-Natal,Richards Bay,2022-11-11
+C00043,Tumi,Le Roux,M,1993-08-30,Eastern Cape,Gqeberha,2021-11-09
+C00233,Fatima,Zulu,M,1996-07-21,KwaZulu-Natal,Pietermaritzburg,2022-07-24
+C00420,Mandla,Khumalo,F,1993-02-17,Limpopo,Tzaneen,2024-06-12
+C00080,Zanele,Le Roux,F,1997-11-08,Gauteng,Pretoria,2020-05-29
+C00186,Tumi,Smit,M,2001-05-10,Western Cape,George,2021-08-04
+C00479,Werner,Nkosi,F,1985-03-29,Gauteng,Soweto,2019-11-23
+C00221,Chris,Kruger,F,2000-01-12,Western Cape,Paarl,2019-04-18
+C00269,Kagiso,Mahlangu,F,1960-11-06,Gauteng,Pretoria,2022-12-07
+C00113,Bongani,Dlamini,M,1979-03-01,Gauteng,Johannesburg,2019-07-23
+C00012,Zanele,Khumalo,M,1957-02-22,Gauteng,Soweto,2024-05-18
+C00151,Anke,Coetzee,M,1959-03-24,Gauteng,,2026-01-12
+C00235,Ruth,Dlamini,F,1974-03-09,KwaZulu-Natal,Pietermaritzburg,2019-07-11
+C00086,Nomvula,Coetzee,M,1964-10-15,Limpopo,Tzaneen,2018-03-20
+C00247,Thabo,Steyn,M,2002-07-20,Eastern Cape,Mthatha,2024-06-08
+C00135,Precious,Mahlangu,M,1986-03-06,KwaZulu-Natal,Richards Bay,2018-10-26
+C00144,Chris,Khumalo,M,1994-03-01,KwaZulu-Natal,Richards Bay,2020-01-09
+C00422,Kabelo,Mokoena,F,1968-06-25,Gauteng,Soweto,2020-05-29
+C00272,Lerato,Dlamini,F,1979-05-08,Gauteng,Centurion,2018-11-19
+C00361,Vusi,Steyn,F,1977-04-13,Western Cape,Paarl,2020-03-24
+C00291,David,Nkosi,M,1957-07-06,Gauteng,Pretoria,2020-02-11
+C00183,Werner,Mokoena,M,1973-06-11,Gauteng,Sandton,2026-05-30
+C00365,Michael,Molefe,M,1969-10-12,Free State,Bloemfontein,2025-07-10
+C00307,Werner,Mokoena,M,2000-09-17,Gauteng,Sandton,2019-08-14
+C00423,Ayesha,Fourie,M,1999-10-22,Eastern Cape,Gqeberha,2025-10-23
+C00437,Ayesha,Sithole,M,1984-09-15,Gauteng,Soweto,2023-07-14
+C00438,Aisha,Naidoo,M,1969-03-06,Gauteng,Soweto,2021-12-18
+C00005,Thabo,Dlamini,M,1963-12-12,Western Cape,Cape Town,2025-12-14
+C00134,Mandla,Mahlangu,F,1989-01-17,Limpopo,Polokwane,2025-11-19
+C00045,Sipho,Pretorius,M,1989-07-01,Western Cape,Cape Town,2019-09-27
+C00353,Vusi,Steyn,M,1955-07-02,Western Cape,Stellenbosch,2023-03-01
+C00251,Susan,Steyn,M,1958-08-17,Western Cape,Cape Town,2024-10-23
+C00290,Pieter,Fourie,F,1956-10-03,North West,,2024-05-05
+C00285,Aisha,Kruger,F,1983-11-12,Northern Cape,Upington,2023-10-16
+C00204,Sanele,Le Roux,F,1996-01-13,KwaZulu-Natal,Richards Bay,2018-05-11
+C00136,Johan,Coetzee,M,1990-07-24,Gauteng,Johannesburg,2022-06-28
+C00431,Werner,Dlamini,M,1996-12-22,Western Cape,Cape Town,2022-09-03
+C00146,Kagiso,Van der Merwe,M,1960-09-26,Gauteng,Soweto,2022-03-10
+C00446,Anke,Kruger,M,1985-05-13,North West,Rustenburg,2020-06-26
+C00482,Susan,Mokoena,F,1995-08-08,Eastern Cape,East London,2021-12-25
+C00072,Anke,Ndlovu,M,2003-08-18,Mpumalanga,Witbank,2018-10-12
+C00119,Fatima,Dlamini,F,1966-10-03,Mpumalanga,Witbank,2026-05-28
+C00453,Werner,Mokoena,F,1956-07-22,Northern Cape,Kimberley,2022-06-07
+C00048,Tumi,Mahlangu,M,1990-04-03,Western Cape,Paarl,2020-08-25
+C00394,Naledi,Zulu,F,1991-05-05,Western Cape,Cape Town,2025-03-15
+C00217,Anke,Mbeki,F,2001-12-11,Northern Cape,Upington,2022-10-09
+C00075,Ayesha,Kruger,M,1975-02-07,Eastern Cape,Gqeberha,2021-03-17
+C00499,Kabelo,Khumalo,F,2000-07-16,Gauteng,Soweto,2023-03-29
+C00484,Bongani,Khumalo,F,1978-10-28,Gauteng,Soweto,2020-06-22
+C00249,Susan,Molefe,M,2002-03-15,Free State,Welkom,2022-03-15
+C00095,Naledi,Kruger,M,1976-03-04,Limpopo,Polokwane,2022-01-04
+C00408,Susan,Mahlangu,F,1996-06-15,Gauteng,Sandton,2026-06-24
+C00407,Ayesha,Steyn,M,1959-06-12,Gauteng,Soweto,2023-10-27
+C00471,Ayesha,Zulu,F,1990-01-02,Free State,Bloemfontein,2021-12-27
+C00094,Kabelo,Kruger,M,2002-05-07,KwaZulu-Natal,Pietermaritzburg,2019-07-23
+C00019,Ruth,Smit,M,1996-03-30,Limpopo,Tzaneen,2021-04-29
+C00284,Aisha,Molefe,F,1993-05-29,Western Cape,Stellenbosch,2025-05-22
+C00293,Chris,Steyn,M,1957-04-30,Western Cape,Cape Town,2018-06-09
+C00314,Johan,Pretorius,M,1977-04-08,KwaZulu-Natal,Richards Bay,2025-10-21
+C00032,Mandla,Zulu,M,1987-06-08,KwaZulu-Natal,Durban,2022-05-02
+C00322,Karen,Khumalo,F,1998-08-12,KwaZulu-Natal,Durban,2020-01-11
+C00141,Thabo,Botha,F,1963-03-21,KwaZulu-Natal,Richards Bay,2019-06-21
+C00090,Lerato,Molefe,F,1987-06-25,North West,Rustenburg,2022-06-21
+C00159,Michael,Zulu,F,1990-05-29,Western Cape,Stellenbosch,2025-01-30
+C00287,Zanele,Mbeki,F,1963-05-23,Gauteng,Sandton,2022-10-28
+C00343,Nomvula,Le Roux,M,1998-02-14,Western Cape,George,2024-04-17
+C00349,Nomvula,Van der Merwe,F,1977-05-03,Free State,Welkom,2018-03-14
+C00142,Anke,Khumalo,F,1982-09-07,KwaZulu-Natal,,2022-01-31
+C00383,Sanele,Khumalo,F,1955-02-25,Mpumalanga,Witbank,2024-09-02
+C00410,Michael,Le Roux,M,2003-08-08,KwaZulu-Natal,Durban,2024-06-11
+C00244,Emma,Smit,F,1960-08-04,Eastern Cape,East London,2024-12-11
+C00014,Johan,Sithole,F,1970-12-19,Western Cape,Cape Town,2018-08-28
+C00454,Sanele,Fourie,M,1959-08-31,gauteng,Gqeberha,2019-01-06
+C00078,Johan,Van der Merwe,F,1961-01-06,Limpopo,Polokwane,2025-08-27
+C00483,Anke,Dlamini,F,2000-08-14,Gauteng,Johannesburg,2023-03-01
+C00180,David,Steyn,M,1984-12-19,Gauteng,Johannesburg,2018-08-09
+C00178,Bongani,Mbeki,F,1990-12-31,Gauteng,Pretoria,2018-02-19
+C00463,Johan,Kruger,F,1979-12-29,Gauteng,Pretoria,2018-06-15
+C00486,Michael,Smit,F,1982-07-02,Western Cape,George,2024-06-22
+C00201,Ruth,Ndlovu,F,1982-05-11,Eastern Cape,Mthatha,2025-08-09
+C00034,Michael,Mahlangu,F,1994-11-21,Gauteng,Soweto,2020-11-13
+C00063,Naledi,Naidoo,F,1960-10-28,Eastern Cape,Gqeberha,2020-05-31
+C00123,Vusi,Fourie,M,1993-06-04,Western Cape,Stellenbosch,2021-04-21
+C00364,Pieter,Mokoena,F,1960-06-04,Gauteng,Sandton,2019-03-01
+C00345,Werner,Dlamini,M,1986-12-27,Free State,Bloemfontein,2024-04-10
+C00055,Vusi,Botha,F,1962-06-04,Gauteng,Centurion,2026-03-24
+C00396,Nomvula,Khumalo,M,1957-06-15,Western Cape,George,2018-06-28
+C00240,Bongani,Khumalo,M,1986-01-21,Northern Cape,Kimberley,2024-11-20
+C00357,Chris,Nkosi,M,1956-02-28,Western Cape,George,2026-03-12
+C00017,Chris,Botha,M,1962-11-15,Western Cape,Paarl,2025-02-22
+C00372,Werner,Kruger,M,1996-09-29,KwaZulu-Natal,Durban,2022-07-01
+C00421,Aisha,Van der Merwe,M,1963-06-09,Eastern Cape,Mthatha,2019-02-10
+C00041,Anke,Mbeki,F,1979-04-05,Mpumalanga,Witbank,2024-01-02
+C00491,Nomvula,Mokoena,M,1959-08-29,Mpumalanga,Nelspruit,2022-01-12
+C00257,Aisha,Coetzee,F,1974-04-12,Eastern Cape,East London,2024-11-14
+C00074,Johan,Zulu,M,1980-06-04,Western Cape,Stellenbosch,2018-03-11
+C00009,Pieter,Mokoena,F,1989-04-29,Free State,Welkom,2021-01-16
+C00305,Bongani,Smit,M,1964-05-17,Eastern Cape,Mthatha,2019-04-17
+C00414,Ruth,Sithole,F,1979-12-09,Mpumalanga,Nelspruit,2020-11-01
+C00222,Precious,Naidoo,F,1963-11-13,Mpumalanga,Nelspruit,2026-01-27
+C00474,Aisha,Dlamini,F,1959-03-19,Gauteng,Centurion,2019-05-24
+C00157,Kagiso,Steyn,F,1961-01-05,KwaZulu-Natal,Pietermaritzburg,2019-01-18
+C00124,Anke,Naidoo,F,1986-05-04,Gauteng,Johannesburg,2018-07-11
+C00370,Themba,Steyn,F,1985-03-22,KwaZulu-Natal,Pietermaritzburg,2022-06-21
+C00321,Aisha,Kruger,F,1995-06-22,Eastern Cape,East London,2020-09-20
+C00016,Zanele,Van der Merwe,M,1978-04-24,Gauteng,Centurion,2022-11-05
+C00485,Sipho,Mahlangu,F,1960-02-02,Free State,Bloemfontein,2025-02-03
+C00126,Ruth,Kruger,F,1966-05-25,Western Cape,Paarl,2022-05-02
+C00266,Bongani,Sithole,F,1964-03-11,Gauteng,Centurion,2023-10-17

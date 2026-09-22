@@ -1,0 +1,751 @@
+policy_id,customer_id,product_type,broker_channel,sum_insured,premium_monthly,inception_date,policy_status,lapse_date
+P00108,C00140,Motor,Broker,507029,422.63,2025-06-06,Active,
+P00655,C00376,Motor,Broker,109400,156.78,2024-04-15,Active,
+P00074,C00206,Personal Liability,Broker,1000000,128.94,2025-08-10,Lapsed,2026-05-18
+P00272,C00035,Household Contents,Direct - Call Centre,446398,176.81,2024-05-12,Active,
+P00456,C00463,Household Buildings,Direct - Call Centre,2985943,459.62,2025-09-04,Active,
+P00646,C00192,Household Buildings,Direct - Call Centre,576595,72.97,2024-11-06,Cancelled,2026-03-18
+P00513,C00479,Portable Possessions,Broker,53223,80.59,2024-07-22,Active,
+P00096,C00291,Motor,Direct - Online/App,554528,408.72,2023-04-07,Active,
+P00149,C00004,Motor,Broker,189976,166.92,2023-12-24,Active,
+P00649,C00009,Personal Liability,Direct - Call Centre,5000000,246.64,2024-02-18,Active,
+P00481,C00241,Motor,Broker,179646,95.05,2026-07-31,Active,
+P00406,C00270,Household Buildings,Broker,1747050,432.77,2025-10-08,Lapsed,2026-04-19
+P00648,C00383,Motor,Broker,179935,161.57,2026-03-17,Active,
+P00667,C00280,Motor,Broker,281988,232.57,2024-09-11,Active,
+P00136,C00029,Motor,Bancassurance,333614,349.29,2024-04-24,Lapsed,2026-02-22
+P00721,C00456,Motor,Direct - Call Centre,440565,248.01,2024-05-01,Active,
+P00517,C00265,Portable Possessions,Direct - Call Centre,36096,57.45,2026-05-06,Active,
+P00348,C00397,Motor,Bancassurance,433496,467.75,2025-04-15,Active,
+P00297,C00315,Motor,Direct - Call Centre,197302,254.69,2025-03-03,Active,
+P00647,C00130,Motor,Broker,289462,199.76,2024-11-17,Active,
+P00312,C00293,Household Contents,Direct - Call Centre,587046,199.07,2023-04-25,Active,
+P00711,C00400,Household Contents,Broker,649821,203.34,2024-04-08,Active,
+P00741,C00373,Household Buildings,Broker,3323483,710.9,2025-07-26,Active,
+P00474,C00120,Motor,Broker,520067,544.06,2025-05-02,Lapsed,2026-03-10
+P00067,C00180,Household Contents,Broker,703658,198.85,2023-04-24,Active,
+P00159,C00257,Portable Possessions,Direct - Online/App,128148,121.97,2025-01-26,Active,
+P00614,C00368,Motor,Broker,88760,82.1,2023-01-15,Active,
+P00208,C00041,Personal Liability,Direct - Online/App,2000000,180.53,2025-06-07,Active,
+P00558,C00172,Household Contents,Direct - Call Centre,780449,385.89,2026-04-27,Active,
+P00192,C00486,Motor,Broker,288076,187.23,2026-02-05,Active,
+P00511,C00191,Personal Liability,Direct - Online/App,2000000,105.47,2023-12-26,Active,
+P00738,C00137,Motor,Broker,543484,544.15,2023-09-11,Active,
+P00685,C00484,Motor,Direct - Online/App,376250,432.99,2025-11-17,Active,
+P00560,C00075,Household Contents,Direct - Online/App,485184,202.67,2026-01-26,Lapsed,2026-03-29
+P00544,C00258,Motor,Broker,595632,524.96,2024-01-30,Active,
+P00717,C00064,Motor,Direct - Call Centre,499330,472.17,2025-12-06,Lapsed,2026-05-10
+P00129,C00270,Motor,Direct - Call Centre,584503,578.23,2024-04-06,Lapsed,2025-01-03
+P00590,C00398,Motor,Broker,580827,368.18,2024-09-17,Active,
+P00632,C00489,Personal Liability,Broker,2000000,213.13,2023-03-05,Active,
+P00130,C00342,Motor,Direct - Call Centre,389134,248.96,2023-07-19,Active,
+P00202,C00055,Personal Liability,Bancassurance,5000000,179.65,2025-08-07,Active,
+P00636,C00403,Household Contents,Direct - Call Centre,558666,152.85,2023-11-05,Active,
+P00577,C00041,Motor,Broker,181660,140.41,2026-03-22,Active,
+P00423,C00099,Portable Possessions,Broker,92425,121.63,2024-08-08,Lapsed,2026-02-02
+P00358,C00169,Motor,Broker,98734,60.83,2026-03-10,Lapsed,2026-05-10
+P00251,C00253,Household Buildings,Broker,2050669,601.29,2026-01-30,Active,
+P00700,C00418,Household Contents,Direct - Online/App,701102,330.96,2023-02-25,Active,
+P00308,C00022,Household Contents,Broker,591684,245.65,2025-03-05,Active,
+P00154,C00067,Household Contents,Broker,691370,311.67,2025-05-08,Active,
+P00280,C00029,Motor,Direct - Call Centre,152309,98.47,2025-07-13,Active,
+P00476,C00123,Motor,Broker,607050,595.25,2025-05-29,Active,
+P00536,C00231,Household Contents,Broker,366880,0.0,2024-11-09,Active,
+P00675,C00238,Motor,Broker,178129,119.39,2025-06-25,Active,
+P00588,C00217,Household Buildings,Direct - Call Centre,2688796,743.35,2024-03-31,Active,
+P00047,C00319,Portable Possessions,Broker,117673,167.5,2025-08-09,Lapsed,2026-05-18
+P00491,C00394,Household Contents,Broker,601452,236.06,2025-10-19,Active,
+P00296,C00047,Motor,Direct - Call Centre,489316,277.13,2025-07-17,Active,
+P00026,C00337,Motor,Broker,643830,945.63,2023-07-23,Active,
+P00061,C00140,Motor,Broker,275064,210.31,2026-04-09,Active,
+P00218,C00040,Motor,Bancassurance,436910,617.01,2025-10-06,Lapsed,2026-07-22
+P00122,C00221,Motor,Broker,457720,263.2,2026-01-16,Active,
+P00169,C00022,Motor,Broker,114559,99.54,2025-12-29,Active,
+P00124,C00146,Motor,Direct - Online/App,495085,714.19,2024-02-13,Active,
+P00533,C00467,Motor,Direct - Online/App,626567,513.85,2025-02-11,Active,
+P00749,C00151,Motor,Direct - Call Centre,318808,243.11,2024-07-04,Cancelled,2025-11-27
+P00570,C00389,Portable Possessions,Direct - Online/App,101907,159.96,2023-04-05,Active,
+P00310,C00466,Motor,Broker,313529,213.81,2026-04-10,Active,
+P00275,C00324,Household Contents,Broker,466317,181.0,2023-01-09,Active,
+P00630,C00185,Motor,Direct - Call Centre,439686,287.44,2024-09-25,Active,
+P00300,C00197,Household Buildings,Direct - Online/App,2102396,297.62,2025-02-16,Active,
+P00574,C00316,Motor,Broker,121893,117.87,2026-06-27,Active,
+P00260,C00452,Motor,Broker,535722,743.27,2024-01-27,Lapsed,2024-09-30
+P00722,C00205,Motor,Broker,199469,189.68,2026-04-20,Active,
+P00562,C00020,Household Buildings,Direct - Online/App,1566557,285.53,2023-07-08,Active,
+P00613,C00124,Household Contents,Broker,365770,192.22,2023-08-19,Lapsed,2024-11-30
+P00473,C00230,Portable Possessions,Direct - Call Centre,73797,102.27,2023-10-17,Active,
+P00583,C00281,Portable Possessions,Direct - Online/App,76393,68.95,2024-06-17,Active,
+P00330,C00259,Motor,Broker,615431,839.49,2026-05-10,Lapsed,2026-07-24
+P00454,C00320,Motor,Broker,253799,258.55,2023-08-21,Active,
+P00637,C00260,Motor,Bancassurance,114099,80.81,2025-03-30,Active,
+P00382,C00336,Motor,Direct - Online/App,625419,694.23,2025-06-03,Lapsed,2026-06-08
+P00215,C00171,Portable Possessions,Broker,22581,30.9,2026-05-28,Active,
+P00093,C00167,Household Contents,Direct - Call Centre,827837,288.37,2025-04-30,Active,
+P00301,C00237,Household Contents,Broker,459061,157.4,2023-05-25,Active,
+P00422,C00249,Household Contents,Bancassurance,869508,289.52,2026-01-23,Active,
+P00375,C00299,Personal Liability,Broker,1000000,175.07,2026-02-23,Lapsed,2026-06-30
+P00615,C00074,Motor,Direct - Online/App,417125,482.16,2026-02-23,Lapsed,2026-05-07
+P00203,C00125,Household Buildings,Broker,1071629,231.55,2025-07-28,Active,
+P00543,C00203,Motor,Bancassurance,277548,150.12,2024-05-01,Active,
+P00040,C00414,Motor,Bancassurance,498343,362.78,2024-07-25,Active,
+P00007,C00448,Motor,Direct - Call Centre,520576,495.09,2024-06-18,Active,
+P00027,C00247,Portable Possessions,Bancassurance,41986,65.33,2023-03-24,Active,
+P00097,C00306,Household Buildings,Direct - Call Centre,2121504,539.09,2025-08-29,Active,
+P00603,C00057,Motor,Bancassurance,237129,274.0,2025-09-12,Active,
+P00188,C00495,Motor,Broker,112084,151.72,2026-03-07,Active,
+P00493,C00399,Motor,Broker,298308,290.68,2023-03-10,Cancelled,2023-07-23
+P00184,C00149,Motor,Direct - Online/App,406975,406.16,2023-06-24,Active,
+P00269,C00162,Motor,Broker,624840,925.24,2026-02-23,Active,
+P00611,C00264,Motor,Broker,458995,552.64,2024-09-10,Active,
+P00514,C00053,Personal Liability,Direct - Online/App,5000000,208.68,2024-12-27,Active,
+P00299,C00260,Personal Liability,Direct - Online/App,2000000,121.63,2024-09-10,Active,
+P00725,C00459,Motor,Broker,570444,428.12,2024-08-25,Active,
+P00396,C00169,Motor,Broker,420928,555.67,2024-02-06,Active,
+P00070,C00446,Personal Liability,Direct - Online/App,2000000,85.97,2025-04-06,Lapsed,2026-05-02
+P00524,C00140,Household Buildings,Broker,676403,189.03,2024-02-26,Active,
+P00003,C00344,Portable Possessions,Bancassurance,26660,40.13,2024-06-08,Lapsed,2025-09-28
+P00509,C00247,Personal Liability,Broker,2000000,191.4,2023-08-13,Active,
+P00088,C00175,Motor,Broker,296842,442.24,2023-10-04,Lapsed,2024-02-10
+P00224,C00100,Motor,Direct - Call Centre,545029,642.21,2023-12-10,Active,
+P00316,C00310,Motor,Broker,626846,790.35,2023-03-12,Active,
+P00273,C00241,Motor,Broker,116599,147.79,2025-02-07,Active,
+P00693,C00454,Household Contents,Broker,898956,313.0,2023-02-19,Active,
+P00172,C00236,Motor,Broker,324586,388.96,2025-07-18,Active,
+P00144,C00392,Motor,Broker,593052,499.74,2023-02-24,Lapsed,2025-02-26
+P00716,C00140,Personal Liability,Direct - Online/App,1000000,205.59,2025-12-21,Active,
+P00680,C00416,Motor,Broker,536141,758.87,2026-06-29,Active,
+P00397,C00417,Household Contents,Direct - Online/App,600593,230.57,2024-05-21,Active,
+P00383,C00358,Household Contents,Direct - Call Centre,706639,269.0,2025-09-05,Active,
+P00023,C00260,Motor,Broker,384722,574.6,2023-09-25,Cancelled,2024-05-05
+P00244,C00389,Personal Liability,Broker,5000000,138.03,2024-06-05,Active,
+P00034,C00189,Portable Possessions,Direct - Call Centre,50210,68.03,2023-09-13,Active,
+P00446,C00306,Household Buildings,Broker,515283,130.98,2023-02-06,Active,
+P00145,C00131,Motor,Direct - Call Centre,466716,294.38,2024-10-08,Active,
+P00180,C00208,Household Buildings,Direct - Call Centre,1808409,348.36,2026-02-15,Active,
+P00495,C00258,Motor,Direct - Call Centre,314096,179.38,2023-11-23,Active,
+P00559,C00406,Motor,Broker,393932,500.53,2026-07-24,Active,
+P00178,C00220,Motor,Broker,475645,584.32,2024-01-18,Lapsed,2024-04-21
+P00408,C00331,Motor,Broker,109528,137.55,2024-07-27,Active,
+P00359,C00049,Motor,Broker,402005,394.21,2024-03-06,Active,
+P00468,C00313,Motor,Direct - Online/App,461091,439.51,2024-02-28,Active,
+P00739,C00411,Portable Possessions,Broker,95580,147.41,2023-01-25,Active,
+P00121,C00177,Motor,Direct - Call Centre,118022,131.46,2025-09-25,Active,
+P00352,C00027,Motor,Broker,356739,441.45,2023-04-04,Lapsed,2023-08-15
+P00545,C00192,Personal Liability,Broker,2000000,191.08,2024-08-22,Active,
+P00071,C00074,Motor,Broker,303855,410.51,2025-04-16,Active,
+P00663,C00171,Motor,Direct - Call Centre,179855,129.41,2026-05-01,Active,
+P00089,C00081,Personal Liability,Direct - Call Centre,2000000,211.65,2025-08-19,Active,
+P00289,C00189,Personal Liability,Broker,5000000,128.21,2026-07-14,Active,
+P00373,C00171,Motor,Broker,331087,362.95,2025-01-05,Active,
+P00601,C00235,Household Contents,Broker,168016,54.01,2024-10-25,Active,
+P00248,C00488,Household Buildings,Direct - Online/App,574336,168.99,2025-12-08,Active,
+P00325,C00461,Motor,Bancassurance,106350,59.23,2023-01-02,Active,
+P00256,C00297,Household Buildings,Direct - Online/App,598808,102.96,2026-07-18,Active,
+P00118,C00387,Motor,Direct - Online/App,407846,372.74,2023-05-15,Lapsed,2024-12-01
+P00094,C00398,Household Contents,Direct - Call Centre,588268,269.34,2024-08-05,Lapsed,2025-05-09
+P00410,C00217,Motor,Broker,170362,156.23,2024-10-18,Active,
+P00075,C00036,Household Buildings,Bancassurance,2015830,496.67,2025-05-29,Active,
+P00170,C00224,Motor,Direct - Online/App,437362,388.44,2024-02-06,Active,
+P00747,C00093,Household Contents,Direct - Online/App,591651,149.96,2023-08-03,Active,
+P00189,C00167,Household Contents,Direct - Online/App,491118,204.74,2026-03-05,Active,
+P00522,C00391,Motor,Broker,333340,478.26,2025-03-31,Active,
+P00459,C00225,Motor,Broker,582580,413.49,2023-10-06,Lapsed,2026-03-24
+P00553,C00477,Motor,Direct - Online/App,352983,350.83,2026-07-27,Active,
+P00326,C00429,Portable Possessions,Broker,142404,203.51,2023-04-02,Active,
+P00151,C00383,Household Buildings,Direct - Online/App,2095471,399.27,2025-11-10,Active,
+P00523,C00083,Personal Liability,Broker,5000000,185.15,2025-03-21,Lapsed,2026-01-15
+P00619,C00315,Motor,Direct - Call Centre,332240,377.2,2023-09-26,Active,
+P00392,C00287,Personal Liability,Direct - Online/App,2000000,138.49,2025-04-25,Active,
+P00501,C00103,Motor,Direct - Call Centre,492496,518.28,2024-06-22,Active,
+P00294,C00443,Household Buildings,Direct - Online/App,1099440,166.79,2024-12-11,Active,
+P00354,C00324,Personal Liability,Bancassurance,2000000,224.29,2026-05-03,Active,
+P00221,C00059,Household Buildings,Broker,1810967,354.54,2023-01-01,Active,
+P00318,C00257,Household Contents,Broker,461039,212.45,2023-01-07,Lapsed,2025-10-09
+P00563,C00147,Motor,Broker,120179,142.21,2023-10-14,Lapsed,2025-03-11
+P00697,C00159,Motor,Broker,163509,206.98,2025-02-26,Active,
+P00676,C00357,Motor,Broker,610034,349.53,2024-03-12,Lapsed,2026-05-10
+P00319,C00078,Motor,Broker,451048,375.44,2025-05-30,Active,
+P00022,C00296,Motor,Broker,451451,619.12,2025-01-31,Active,
+P00057,C00356,Motor,Broker,153070,117.57,2025-11-03,Active,
+P00290,C00426,Motor,Direct - Online/App,387015,564.15,2023-08-09,Active,
+P00119,C00263,Portable Possessions,Bancassurance,42182,67.83,2024-07-24,Lapsed,2025-04-15
+P00366,C00437,Motor,Direct - Online/App,123634,141.93,2026-06-28,Active,
+P00222,C00272,Portable Possessions,Broker,38345,42.17,2024-08-04,Active,
+P00098,C00044,Household Contents,Bancassurance,898945,246.27,2024-10-14,Active,
+P00420,C00486,Household Contents,Bancassurance,781743,412.33,2026-03-08,Active,
+P00403,C00379,Household Contents,Direct - Call Centre,452691,137.28,2025-05-08,Active,
+P00591,C00148,Motor,Bancassurance,122103,157.95,2024-05-03,Active,
+P00526,C00464,Motor,Direct - Call Centre,371424,487.16,2025-11-06,Lapsed,2026-01-08
+P00279,C00303,Household Buildings,Bancassurance,1426676,341.33,2023-07-31,Cancelled,2024-08-04
+P00486,C00348,Motor,Broker,455492,482.7,2025-02-09,Active,
+P00156,C00273,Personal Liability,Direct - Call Centre,1000000,231.94,2023-02-25,Active,
+P00128,C00250,Personal Liability,Direct - Call Centre,2000000,223.26,2025-08-14,Active,
+P00634,C00279,Motor,Broker,285714,347.04,2023-04-15,Lapsed,2025-08-23
+P00540,C00014,Motor,Broker,182777,203.54,2025-04-22,Active,
+P00450,C00093,Motor,Direct - Call Centre,458089,465.35,2026-01-07,Active,
+P00050,C00330,Motor,Broker,547717,405.72,2024-07-28,Active,
+P00393,C00193,Household Buildings,Direct - Call Centre,3277526,834.88,2024-12-02,Active,
+P00211,C00159,Motor,Broker,544966,481.39,2023-02-18,Active,
+P00445,C00068,Household Buildings,Broker,2930134,778.87,2023-10-15,Active,
+P00534,C00114,Portable Possessions,Broker,82795,79.64,2024-11-13,Active,
+P00572,C00241,Motor,Direct - Call Centre,435158,619.24,2024-08-17,Active,
+P00021,C00054,Motor,Bancassurance,135181,195.65,2023-08-31,Active,
+P00426,C00080,Motor,Direct - Online/App,410564,240.12,2024-10-30,Active,
+P00241,C00309,Motor,Broker,259516,232.67,2024-05-30,Active,
+P00150,C00255,Motor,Bancassurance,94366,66.26,2025-03-01,Active,
+P00457,C00085,Household Buildings,Direct - Call Centre,608074,138.98,2025-07-08,Active,
+P00438,C00270,Household Contents,Broker,740319,374.73,2023-03-22,Active,
+P00005,C00211,Motor,Direct - Call Centre,263018,182.33,2025-05-06,Lapsed,2026-05-13
+P00550,C00115,Personal Liability,Broker,5000000,158.06,2024-07-08,Active,
+P00557,C00333,Motor,Broker,431820,321.82,2024-01-28,Lapsed,2026-01-09
+P00485,C00189,Motor,Bancassurance,264228,288.29,2023-09-20,Active,
+P00537,C00453,Motor,Direct - Online/App,520780,570.54,2023-07-25,Active,
+P00677,C00246,Portable Possessions,Broker,117893,138.01,2024-08-13,Active,
+P00138,C00105,Household Buildings,Direct - Call Centre,555863,75.47,2024-08-14,Active,
+P00110,C00339,Household Buildings,Broker,563468,107.57,2023-08-20,Lapsed,2024-07-04
+P00331,C00331,Motor,Broker,95307,100.4,2025-03-05,Active,
+P00435,C00428,Motor,Broker,197779,160.67,2023-12-24,Lapsed,2024-10-22
+P00589,C00057,Motor,Broker,175917,180.3,2023-11-16,Active,
+P00298,C00305,Household Buildings,Broker,649221,169.76,2025-03-09,Active,
+P00206,C00206,Household Contents,Direct - Call Centre,530006,239.6,2026-05-23,Lapsed,2026-07-22
+P00535,C00419,Household Contents,Broker,311233,145.59,2024-02-01,Active,
+P00696,C00478,Personal Liability,Bancassurance,1000000,104.7,2024-04-03,Lapsed,2026-05-30
+P00283,C00038,Portable Possessions,Broker,22776,36.5,2025-02-14,Active,
+P00639,C00011,Motor,Direct - Online/App,195393,117.84,2024-02-11,Lapsed,2026-05-24
+P00361,C00348,Household Contents,Direct - Online/App,418493,166.15,2025-02-04,Cancelled,2025-05-01
+P00718,C00410,Household Contents,Direct - Call Centre,239641,134.33,2026-03-16,Active,
+P00105,C00026,Household Contents,Direct - Online/App,787976,442.04,2025-08-02,Active,
+P00374,C00042,Motor,Broker,138044,115.5,2023-01-10,Active,
+P00064,C00159,Household Buildings,Broker,2929822,0.0,2025-08-11,Active,
+P00062,C00360,Household Contents,Broker,586640,220.64,2026-06-15,Active,
+P00240,C00089,Portable Possessions,Broker,43173,56.32,2026-07-22,Active,
+P00730,C00096,Motor,Broker,463907,362.64,2024-08-13,Active,
+P00515,C00365,Personal Liability,Broker,1000000,87.15,2023-05-02,Active,
+P00428,C00152,Portable Possessions,Direct - Online/App,79360,71.98,2024-03-25,Active,
+P00084,C00111,Motor,Direct - Online/App,312351,455.57,2026-03-04,Active,
+P00125,C00348,Motor,Broker,193887,143.81,2024-08-29,Active,
+P00254,C00289,Household Buildings,Direct - Online/App,1270684,311.13,2024-12-26,Lapsed,2026-02-27
+P00258,C00349,Household Contents,Broker,520074,243.18,2025-01-11,Active,
+P00518,C00436,Motor,Broker,117208,67.39,2023-12-05,Active,
+P00592,C00122,Household Buildings,Broker,691713,136.15,2024-03-29,Active,
+P00480,C00402,Motor,Direct - Call Centre,476272,671.59,2025-08-22,Active,
+P00597,C00215,Motor,Broker,208505,196.66,2025-04-14,Active,
+P00503,C00310,Motor,Broker,133085,165.85,2023-09-26,Active,
+P00317,C00244,Household Contents,Direct - Online/App,249353,140.28,2024-07-28,Active,
+P00458,C00370,Household Buildings,Direct - Call Centre,779654,109.32,2025-11-10,Active,
+P00185,C00059,Motor,Direct - Call Centre,324183,385.7,2025-08-20,Active,
+P00425,C00071,Personal Liability,Direct - Online/App,5000000,95.32,2025-11-06,Active,
+P00370,C00309,Personal Liability,Broker,5000000,138.19,2024-01-06,Active,
+P00357,C00034,Motor,Direct - Online/App,366707,429.74,2025-07-02,Active,
+P00307,C00459,Portable Possessions,Direct - Call Centre,121544,191.08,2024-08-08,Lapsed,2025-03-20
+P00635,C00260,Motor,Broker,200395,102.05,2023-07-28,Active,
+P00166,C00204,Motor,Broker,188325,263.35,2024-02-07,Active,
+P00181,C00364,Portable Possessions,Broker,149326,134.24,2025-03-19,Active,
+P00686,C00235,Motor,Broker,226149,187.22,2023-09-11,Active,
+P00012,C00445,Household Contents,Broker,550134,142.4,2026-04-09,Active,
+P00116,C00140,Motor,Direct - Online/App,265474,303.7,2024-04-05,Active,
+P00618,C00001,Motor,Broker,613677,713.22,2025-04-04,Lapsed,2026-04-26
+P00579,C00132,Motor,Broker,150674,146.72,2023-03-11,Lapsed,2023-05-11
+P00464,C00369,Motor,Broker,409708,287.74,2024-07-19,Lapsed,2024-11-08
+P00431,C00052,Household Contents,Broker,183641,51.11,2025-12-05,Active,
+P00165,C00037,Motor,Broker,609890,882.81,2025-02-03,Active,
+P00199,C00046,Motor,Direct - Call Centre,386339,381.36,2023-09-15,Lapsed,2024-12-03
+P00599,C00407,Motor,Direct - Call Centre,440636,249.05,2024-11-23,Active,
+P00434,C00277,Household Buildings,Broker,2459270,639.88,2023-06-05,Active,
+P00679,C00094,Household Buildings,Broker,2897794,445.32,2023-06-10,Lapsed,2024-12-01
+P00058,C00137,Household Buildings,Bancassurance,2343812,375.89,2024-06-09,Active,
+P00219,C00262,Personal Liability,Broker,1000000,185.42,2026-04-09,Active,
+P00712,C00025,Portable Possessions,Direct - Online/App,76564,86.35,2024-03-09,Active,
+P00567,C00357,Motor,Broker,129173,85.61,2024-12-25,Active,
+P00376,C00340,Portable Possessions,Broker,120608,194.74,2025-04-09,Cancelled,2025-05-30
+P00302,C00298,Motor,Direct - Call Centre,328393,293.34,2025-07-02,Active,
+P00341,C00082,Household Buildings,Broker,865204,207.83,2023-05-31,Active,
+P00055,C00337,Household Buildings,Broker,1975800,480.85,2023-01-21,Active,
+P00340,C00313,Motor,Direct - Online/App,155256,163.98,2024-02-26,Active,
+P00731,C00255,Portable Possessions,Broker,124425,139.27,2026-03-01,Active,
+P00345,C00145,Household Buildings,Broker,2424981,661.78,2023-08-15,Active,
+P00478,C00495,Personal Liability,Direct - Online/App,5000000,129.82,2024-02-19,Active,
+P00353,C00405,Motor,Direct - Call Centre,87105,81.36,2024-03-03,Active,
+P00350,C00348,Motor,Broker,225885,338.69,2024-08-06,Cancelled,2026-06-05
+P00690,C00023,Household Buildings,Direct - Online/App,1421393,357.85,2026-01-25,Active,
+P00724,C00226,Motor,Broker,314899,392.33,2025-03-30,Active,
+P00394,C00330,Portable Possessions,Broker,39900,65.61,2026-03-07,Active,
+P00432,C00260,Household Buildings,Broker,2564390,833.55,2026-06-12,Active,
+P00255,C00390,Motor,Broker,515942,444.0,2023-10-06,Active,
+P00475,C00274,Motor,Direct - Online/App,562695,494.52,2025-12-09,Active,
+P00054,C00476,Portable Possessions,Broker,121845,148.34,2024-10-21,Lapsed,2026-02-10
+P00372,C00077,Household Buildings,Broker,3453822,610.1,2026-03-24,Lapsed,2026-06-02
+P00231,C00420,Motor,Direct - Call Centre,460416,440.5,2025-12-30,Cancelled,2026-02-03
+P00745,C00309,Motor,Direct - Online/App,451472,508.87,2026-04-24,Active,
+P00147,C00168,Household Buildings,Bancassurance,2845771,719.21,2025-07-22,Lapsed,2025-11-14
+P00683,C00367,Household Buildings,Broker,1750795,256.4,2024-01-19,Active,
+P00643,C00023,Motor,Broker,383113,269.85,2025-03-11,Active,
+P00462,C00187,Motor,Broker,153790,119.01,2026-05-23,Active,
+P00087,C00233,Portable Possessions,Broker,139456,154.82,2025-06-05,Lapsed,2025-11-17
+P00220,C00325,Portable Possessions,Direct - Call Centre,137748,204.49,2025-04-05,Cancelled,2026-01-18
+P00743,C00041,Household Buildings,Direct - Call Centre,1733038,540.59,2025-04-08,Active,
+P00045,C00393,Motor,Broker,193192,217.69,2024-05-20,Active,
+P00175,C00442,Household Buildings,Broker,1148807,349.51,2025-07-16,Active,
+P00527,C00263,Motor,Direct - Call Centre,386226,559.89,2023-06-12,Active,
+P00532,C00485,Motor,Direct - Online/App,615954,412.5,2023-07-11,Active,
+P00140,C00485,Household Buildings,Broker,2678110,584.86,2024-07-08,Active,
+P00163,C00413,Motor,Broker,414951,505.44,2023-06-07,Active,
+P00433,C00395,Household Contents,Broker,110725,39.67,2026-04-28,Lapsed,2026-07-04
+P00421,C00393,Household Buildings,Direct - Online/App,2414861,560.92,2023-08-05,Active,
+P00571,C00362,Motor,Broker,200463,296.29,2024-06-11,Active,
+P00399,C00344,Personal Liability,Direct - Online/App,2000000,87.55,2024-09-25,Active,
+P00281,C00181,Portable Possessions,Broker,26939,44.33,2025-08-16,Active,
+P00204,C00224,Motor,Broker,473923,465.1,2025-05-18,Cancelled,2026-01-16
+P00010,C00385,Personal Liability,Bancassurance,5000000,181.56,2024-05-23,Active,
+P00521,C00043,Portable Possessions,Direct - Online/App,16927,21.45,2024-12-24,Active,
+P00720,C00224,Motor,Direct - Call Centre,262248,339.91,2023-05-19,Lapsed,2026-01-01
+P00263,C00326,Household Buildings,Direct - Online/App,3304873,678.47,2025-01-26,Active,
+P00271,C00226,Household Contents,Broker,614534,286.75,2024-04-06,Active,
+P00595,C00025,Motor,Broker,443695,625.3,2023-12-06,Active,
+P00164,C00182,Portable Possessions,Broker,76472,119.33,2025-09-26,Active,
+P00286,C00232,Household Contents,Broker,147992,66.09,2025-02-28,Active,
+P00623,C00214,Motor,Broker,332000,255.21,2024-09-10,Active,
+P00356,C00172,Portable Possessions,Broker,54465,69.02,2025-11-21,Active,
+P00528,C00076,Personal Liability,Direct - Online/App,2000000,91.62,2025-08-13,Active,
+P00496,C00271,Motor,Broker,380031,340.64,2026-04-02,Active,
+P00100,C00027,Motor,Broker,414628,386.41,2024-09-04,Active,
+P00746,C00422,Household Contents,Broker,154990,61.63,2026-07-05,Active,
+P00292,C00040,Motor,Direct - Call Centre,468218,607.4,2026-04-09,Active,
+P00412,C00186,Motor,Direct - Call Centre,296599,319.09,2026-06-22,Active,
+P00709,C00183,Motor,Direct - Call Centre,374544,262.63,2024-07-21,Active,
+P00335,C00363,Household Contents,Broker,303219,77.12,2024-04-05,Active,
+P00072,C00290,Personal Liability,Direct - Online/App,2000000,185.22,2026-04-14,Active,
+P00167,C00442,Motor,Bancassurance,452626,379.76,2023-06-02,Active,
+P00162,C00343,Motor,Broker,457866,283.27,2023-04-02,Active,
+P00131,C00158,Motor,Broker,322662,359.57,2024-01-10,Active,
+P00137,C00004,Motor,Bancassurance,124367,166.98,2024-03-15,Active,
+P00321,C00032,Portable Possessions,Direct - Online/App,87871,76.37,2024-12-09,Active,
+P00017,C00148,Household Contents,Direct - Online/App,439983,164.26,2026-04-05,Active,
+P00114,C00227,Motor,Broker,456192,558.75,2025-11-23,Active,
+P00008,C00341,Household Buildings,Broker,1609454,317.11,2024-03-06,Active,
+P00196,C00354,Portable Possessions,Direct - Call Centre,49778,49.34,2026-06-24,Active,
+P00678,C00324,Motor,Broker,120083,72.33,2026-04-06,Active,
+P00174,C00040,Household Contents,Broker,589951,295.87,2026-04-26,Active,
+P00295,C00438,Household Contents,Broker,644041,314.75,2025-05-01,Active,
+P00642,C00241,Motor,Broker,330564,421.15,2025-05-05,Active,
+P00587,C00271,Portable Possessions,Direct - Online/App,59532,63.77,2025-09-21,Active,
+P00068,C00004,Household Buildings,Broker,1368289,397.96,2023-11-08,Active,
+P00205,C00302,Household Buildings,Direct - Online/App,2255574,590.84,2025-09-16,Active,
+P00626,C00343,Motor,Broker,148729,143.61,2025-11-11,Active,
+P00555,C00430,Motor,Direct - Call Centre,314643,216.39,2025-11-05,Active,
+P00395,C00406,Personal Liability,Broker,1000000,209.53,2023-10-21,Lapsed,2024-07-29
+P00195,C00426,Household Buildings,Direct - Call Centre,1529735,305.69,2025-09-05,Lapsed,2026-05-26
+P00305,C00406,Household Contents,Bancassurance,829165,258.23,2023-03-26,Active,
+P00529,C00426,Household Contents,Broker,787002,279.09,2023-08-28,Active,
+P00669,C00417,Motor,Direct - Call Centre,249811,155.92,2026-05-13,Active,
+P00200,C00224,Motor,Broker,564923,352.42,2023-11-06,Active,
+P00437,C00453,Household Buildings,Broker,1164602,250.12,2025-04-03,Active,
+P00347,C00210,Motor,Broker,557931,629.61,2023-12-27,Active,
+P00004,C00063,Household Buildings,Direct - Call Centre,1981016,648.32,2024-11-25,Active,
+P00377,C00073,Household Contents,Direct - Call Centre,378987,131.15,2025-11-01,Active,
+P00277,C00408,Household Contents,Broker,466188,119.7,2026-03-10,Active,
+P00267,C00498,Personal Liability,Direct - Call Centre,1000000,86.79,2024-03-06,Lapsed,2025-11-22
+P00629,C00500,Household Buildings,Direct - Online/App,2649996,489.53,2024-02-24,Active,
+P00230,C00491,Motor,Bancassurance,600591,353.59,2025-08-16,Active,
+P00568,C00426,Personal Liability,Direct - Call Centre,5000000,163.17,2026-02-20,Lapsed,2026-04-28
+P00538,C00179,Motor,Broker,360718,199.22,2024-09-04,Active,
+P00541,C00213,Motor,Bancassurance,158719,116.95,2025-01-14,Lapsed,2026-07-11
+P00388,C00363,Motor,Broker,611445,817.88,2026-02-09,Cancelled,2026-03-20
+P00498,C00495,Motor,Direct - Call Centre,487115,514.18,2024-12-02,Active,
+P00414,C00186,Motor,Broker,110400,136.66,2026-02-21,Lapsed,2026-07-30
+P00117,C00111,Household Contents,Broker,136675,55.81,2024-07-28,Active,
+P00223,C00262,Household Contents,Broker,860001,296.76,2025-09-18,Cancelled,2025-12-13
+P00106,C00346,Motor,Direct - Online/App,330691,491.28,2026-05-12,Active,
+P00640,C00200,Household Contents,Broker,384287,172.35,2024-10-02,Active,
+P00201,C00433,Portable Possessions,Direct - Online/App,140380,125.01,2026-05-03,Active,
+P00734,C00189,Portable Possessions,Broker,98925,137.75,2025-07-16,Active,
+P00607,C00306,Household Contents,Direct - Online/App,449481,143.64,2025-01-11,Lapsed,2025-08-19
+P00343,C00191,Motor,Broker,170362,97.41,2023-05-13,Active,
+P00661,C00377,Motor,Direct - Call Centre,368504,413.69,2024-06-16,Active,
+P00424,C00116,,Broker,867184,344.33,2026-06-29,Active,
+P00576,C00464,Household Contents,Broker,837226,0.0,2024-12-19,Active,
+P00596,C00123,Motor,Broker,246625,174.96,2023-11-06,Active,
+P00644,C00326,Household Buildings,Direct - Online/App,1960129,490.38,2025-10-23,Active,
+P00288,C00030,Household Buildings,Broker,1464752,209.3,2025-08-23,Cancelled,2025-10-27
+P00035,C00059,Personal Liability,Broker,2000000,139.14,2024-12-03,Lapsed,2026-07-03
+P00483,C00428,Household Contents,Direct - Call Centre,347721,149.54,2023-05-20,Active,
+P00400,C00360,Portable Possessions,Direct - Call Centre,47216,50.63,2023-04-24,Lapsed,2024-11-01
+P00278,C00141,Motor,Broker,308744,317.71,2023-07-08,Lapsed,2024-01-16
+P00015,C00027,Portable Possessions,Direct - Online/App,145083,224.35,2023-04-11,Active,
+P00617,C00220,Household Buildings,Direct - Online/App,2562073,332.67,2023-04-24,Active,
+P00320,C00491,Motor,Broker,236931,149.0,2023-08-01,Active,
+P00546,C00121,Motor,Broker,463027,252.32,2026-06-27,Active,
+P00471,C00384,Motor,Broker,322226,337.78,2023-07-31,Active,
+P00099,C00453,Household Buildings,Broker,2172155,706.95,2025-08-22,Active,
+P00670,C00330,Personal Liability,Broker,5000000,109.65,2025-09-03,Lapsed,2025-11-14
+P00349,C00174,Household Contents,Bancassurance,865363,354.57,2025-07-31,Lapsed,2026-02-27
+P00482,C00463,Household Contents,Broker,559187,168.92,2024-07-23,Active,
+P00095,C00483,Household Contents,Broker,587509,234.38,2025-06-26,Active,
+P00032,C00433,Motor,Bancassurance,636169,457.22,2024-01-05,Active,
+P00465,C00122,Household Buildings,Direct - Call Centre,2455446,351.61,2026-06-19,Active,
+P00500,C00419,Personal Liability,Broker,2000000,102.77,2025-08-07,Lapsed,2025-11-06
+P00539,C00477,Household Contents,Direct - Call Centre,864010,220.03,2024-04-30,Lapsed,2025-08-10
+P00176,C00161,Motor,Direct - Online/App,481153,338.9,2025-07-10,Lapsed,2026-02-16
+P00554,C00051,Household Contents,Broker,115081,46.23,2024-08-06,Active,
+P00282,C00260,Motor,Direct - Call Centre,610808,396.55,2024-07-26,Active,
+P00107,C00042,Motor,Direct - Call Centre,262884,275.31,2023-02-19,Active,
+P00443,C00393,Motor,Broker,121753,112.5,2025-03-06,Active,
+P00398,C00066,Motor,Broker,145040,185.56,2025-11-01,Active,
+P00252,C00238,Household Contents,Broker,774344,228.86,2024-11-01,Active,
+P00378,C00470,Motor,Direct - Call Centre,355416,521.31,2023-01-09,Active,
+P00701,C00279,Household Contents,Broker,601204,331.54,2025-09-06,Active,
+P00379,C00180,Motor,Bancassurance,293775,273.9,2024-02-10,Active,
+P00390,C00044,Motor,Broker,253042,351.42,2023-10-29,Active,
+P00564,C00470,Household Contents,Direct - Online/App,789253,387.81,2025-06-02,Lapsed,2026-05-08
+P00733,C00255,Portable Possessions,Broker,89199,118.82,2025-05-17,Active,
+P00328,C00366,Portable Possessions,Broker,79529,68.94,2023-04-11,Active,
+P00236,C00053,Household Buildings,Broker,2999912,768.82,2025-01-02,Active,
+P00449,C00084,Portable Possessions,Broker,20308,33.62,2023-10-24,Active,
+P00732,C00355,Personal Liability,Broker,5000000,130.64,2024-05-07,Active,
+P00625,C00341,Personal Liability,Direct - Call Centre,5000000,177.27,2023-07-06,Active,
+P00598,C00328,Motor,Direct - Call Centre,221593,191.48,2023-02-17,Active,
+P00448,C00079,Motor,Broker,318594,387.88,2025-12-03,Active,
+P00411,C00261,Portable Possessions,Broker,135151,189.15,2024-09-15,Active,
+P00210,C00446,Motor,Broker,292828,422.89,2023-07-30,Active,
+P00750,C00165,Motor,Broker,534273,685.98,2023-06-12,Active,
+P00531,C00047,Household Buildings,Direct - Call Centre,1817392,390.73,2025-05-12,Active,
+P00214,C00114,Household Contents,Bancassurance,718092,377.99,2024-12-23,Active,
+P00430,C00404,Household Contents,Broker,629295,323.55,2024-03-16,Active,
+P00552,C00164,Household Buildings,Broker,3102456,1031.65,2024-01-13,Lapsed,2026-03-22
+P00102,C00081,Motor,Bancassurance,445689,406.58,2024-06-01,Active,
+P00311,C00415,Portable Possessions,Broker,125128,179.72,2023-04-01,Active,
+P00565,C00425,Portable Possessions,Direct - Online/App,47754,50.71,2026-07-28,Active,
+P00056,C00425,Motor,Direct - Online/App,192165,259.01,2024-06-16,Active,
+P00069,C00093,Motor,Broker,225195,143.01,2023-06-05,Active,
+P00042,C00433,Household Contents,Direct - Call Centre,725405,284.88,2025-09-04,Active,
+P00086,C00215,Personal Liability,Bancassurance,1000000,178.36,2024-09-14,Lapsed,2025-06-19
+P00566,C00242,Motor,Direct - Call Centre,456532,572.96,2025-01-07,Lapsed,2026-01-25
+P00401,C00425,Motor,Broker,613263,309.09,2024-07-29,Lapsed,2025-03-11
+P00484,C00100,Motor,Broker,181536,109.09,2025-05-28,Active,
+P00418,C00110,Household Buildings,Broker,3461150,476.51,2023-03-03,Lapsed,2025-07-21
+P00551,C00015,Personal Liability,Direct - Call Centre,1000000,211.89,2025-03-16,Lapsed,2026-04-18
+P00135,C00307,Household Contents,Bancassurance,327846,168.03,2026-03-28,Active,
+P00197,C00471,Household Buildings,Broker,2876812,810.95,2023-10-17,Active,
+P00620,C00181,Household Buildings,Broker,2057941,494.94,2025-07-15,Active,
+P00217,C00087,Household Buildings,Direct - Call Centre,1145393,182.12,2026-07-25,Active,
+P00285,C00237,Motor,Broker,238389,357.44,2023-11-16,Lapsed,2025-11-02
+P00148,C00062,Motor,Broker,102549,62.38,2023-12-05,Active,
+P00441,C00173,Household Contents,Direct - Call Centre,888533,457.6,2025-03-23,Active,
+P00112,C00249,Motor,Direct - Online/App,425742,402.19,2024-11-09,Active,
+P00612,C00295,Motor,Direct - Call Centre,528485,744.62,2026-01-05,Active,
+P00652,C00035,Household Buildings,Broker,3444198,687.04,2023-08-09,Active,
+P00155,C00195,Motor,Broker,565521,536.24,2025-11-11,Active,
+P00621,C00124,Motor,Direct - Online/App,165348,181.36,2025-02-21,Active,
+P00306,C00379,Household Contents,Direct - Call Centre,455982,227.92,2023-01-07,Active,
+P00699,C00204,Motor,Broker,477300,653.3,2025-10-11,Active,
+P00337,C00225,Household Contents,Broker,255870,119.24,2024-09-01,Active,
+P00489,C00226,Motor,Broker,355623,516.02,2024-11-13,Active,
+P00268,C00322,Motor,Direct - Call Centre,420134,392.66,2025-09-29,Active,
+P00467,C00228,Portable Possessions,Broker,147248,174.62,2026-02-26,Lapsed,2026-07-15
+P00389,C00481,Household Buildings,Direct - Call Centre,993136,270.03,2023-01-05,Active,
+P00477,C00159,Motor,Broker,488986,708.84,2023-04-19,Active,
+P00407,C00048,Personal Liability,Direct - Online/App,2000000,127.02,2025-12-11,Lapsed,2026-05-11
+P00365,C00371,Household Contents,Broker,292497,75.89,2024-12-19,Active,
+P00013,C00469,Household Buildings,Broker,516419,149.19,2024-08-14,Active,
+P00063,C00391,Motor,Broker,406039,606.65,2025-10-06,Lapsed,2026-04-19
+P00171,C00010,Motor,Direct - Online/App,414886,608.31,2024-01-15,Active,
+P00182,C00328,Motor,Broker,179486,226.88,2023-12-26,Active,
+P00193,C00317,Household Contents,Broker,778133,256.14,2026-06-19,Active,
+P00190,C00088,Motor,Broker,352259,488.35,2024-01-16,Active,
+P00113,C00311,Portable Possessions,Broker,16487,16.19,2023-06-15,Active,
+P00103,C00387,Household Buildings,Broker,2768279,836.1,2023-07-24,Active,
+P00415,C00159,Motor,Broker,513826,435.73,2024-07-10,Active,
+P00078,C00325,Household Buildings,Broker,3459886,500.1,2023-04-03,Active,
+P00191,C00411,Motor,Broker,288951,295.15,2023-03-22,Active,
+P00666,C00181,Portable Possessions,Broker,52368,72.37,2025-10-03,Lapsed,2026-07-26
+P00616,C00150,Motor,Bancassurance,496881,648.72,2024-04-29,Lapsed,2026-04-17
+P00053,C00312,Household Buildings,Direct - Online/App,2428995,742.45,2025-04-01,Active,
+P00029,C00434,Portable Possessions,Broker,44097,62.65,2026-05-18,Active,
+P00066,C00174,Household Contents,Broker,886389,343.28,2023-06-25,Active,
+P00653,C00177,Motor,Broker,210381,211.59,2025-03-26,Active,
+P00573,C00230,Motor,Direct - Online/App,568580,408.13,2026-05-11,Lapsed,2026-07-12
+P00291,C00147,Motor,Broker,347054,353.26,2025-11-10,Active,
+P00593,C00155,Motor,Broker,186206,142.88,2023-09-11,Active,
+P00656,C00337,Portable Possessions,Broker,54213,63.8,2025-12-22,Active,
+P00332,C00089,,Bancassurance,782297,122.94,2025-01-27,Active,
+P00504,C00071,Motor,Broker,504418,604.93,2025-03-14,Active,
+P00083,C00272,Household Contents,Broker,687808,221.46,2026-05-21,Active,
+P00520,C00146,Portable Possessions,Broker,62290,52.54,2024-02-20,Lapsed,2025-03-11
+P00309,C00231,Motor,Broker,420734,396.29,2023-10-29,Active,
+P00391,C00159,Motor,Direct - Online/App,348442,341.5,2025-05-04,Active,
+P00387,C00305,Household Buildings,Broker,2329534,344.41,2024-12-11,Active,
+P00360,C00286,Motor,Direct - Call Centre,236772,259.6,2025-01-03,Active,
+P00355,C00332,Motor,Direct - Call Centre,94934,70.51,2025-06-25,Active,
+P00628,C00269,Motor,Broker,237184,327.26,2025-08-10,Active,
+P00160,C00287,Household Buildings,Direct - Online/App,1290347,411.19,2024-02-19,Lapsed,2025-02-07
+P00575,C00003,Motor,Bancassurance,351415,332.65,2025-06-02,Active,
+P00187,C00011,Motor,Broker,571652,763.46,2026-07-19,Active,
+P00245,C00336,Household Buildings,Broker,2495553,696.24,2025-09-02,Active,
+P00585,C00373,Motor,Broker,100647,64.64,2024-02-05,Lapsed,2025-10-16
+P00672,C00426,Household Contents,Direct - Online/App,143432,77.27,2024-03-22,Lapsed,2025-12-25
+P00158,C00118,Household Buildings,Direct - Online/App,1740224,516.23,2024-12-21,Active,
+P00127,C00304,Motor,Broker,120609,117.63,2024-02-10,Active,
+P00233,C00418,Household Contents,Direct - Online/App,169025,70.1,2025-05-21,Active,
+P00212,C00382,Household Contents,Direct - Online/App,867276,333.07,2026-03-24,Lapsed,2026-07-28
+P00323,C00053,Motor,Direct - Online/App,234611,267.34,2025-10-13,Active,
+P00362,C00198,Motor,Broker,369131,341.2,2024-04-20,Lapsed,2025-11-09
+P00582,C00077,Motor,Direct - Call Centre,407349,267.09,2026-07-23,Active,
+P00293,C00331,Motor,Broker,608358,499.13,2026-04-10,Active,
+P00213,C00174,Household Buildings,Broker,3474421,587.57,2026-04-22,Active,
+P00266,C00443,Motor,Broker,444755,547.51,2025-02-18,Active,
+P00104,C00317,Motor,Direct - Call Centre,229836,248.78,2025-06-11,Active,
+P00594,C00063,Personal Liability,Bancassurance,1000000,182.88,2024-12-11,Active,
+P00723,C00381,Motor,Direct - Online/App,279709,242.27,2024-05-31,Active,
+P00342,C00187,Personal Liability,Broker,1000000,132.49,2026-06-24,Active,
+P00334,C00127,Motor,Broker,437327,525.35,2023-03-23,Active,
+P00549,C00192,Household Contents,Broker,132399,54.97,2023-04-10,Active,
+P00009,C00482,Household Contents,Broker,874784,281.25,2024-02-24,Active,
+P00665,C00023,Motor,Broker,609772,506.83,2025-09-01,Active,
+P00455,C00415,Motor,Direct - Call Centre,574099,485.69,2026-02-05,Active,
+P00259,C00474,Motor,Bancassurance,618538,584.68,2025-02-12,Active,
+P00229,C00373,Household Buildings,Broker,1707112,486.41,2023-04-25,Active,
+P00238,C00132,Personal Liability,Direct - Call Centre,1000000,229.87,2025-12-12,Active,
+P00687,C00019,Portable Possessions,Direct - Online/App,103736,157.79,2023-03-07,Active,
+P00714,C00336,Household Contents,Direct - Online/App,119591,47.55,2026-05-04,Active,
+P00183,C00214,Motor,Broker,309865,179.81,2023-02-04,Active,
+P00525,C00231,Portable Possessions,Broker,24128,29.64,2024-02-27,Active,
+P00542,C00028,Personal Liability,Broker,1000000,177.89,2024-02-08,Active,
+P00198,C00186,Household Buildings,Bancassurance,1392235,269.68,2025-09-03,Active,
+P00463,C00347,Motor,Direct - Call Centre,187555,120.66,2025-06-27,Active,
+P00452,C00355,Household Contents,Direct - Online/App,524276,196.49,2023-11-04,Active,
+P00715,C00170,Motor,Broker,368835,259.73,2024-04-12,Active,
+P00668,C00174,Portable Possessions,Direct - Online/App,80584,75.59,2023-01-05,Active,
+P00487,C00485,Household Contents,Direct - Online/App,682298,378.75,2023-03-07,Active,
+P00051,C00286,Motor,Broker,217328,272.05,2025-07-29,Active,
+P00416,C00093,Motor,Broker,215262,127.49,2023-05-04,Active,
+P00367,C00337,Household Buildings,Broker,1993560,613.85,2025-06-24,Active,
+P00235,C00121,Motor,Broker,487049,410.39,2026-02-21,Active,
+P00490,C00237,Portable Possessions,Bancassurance,35596,45.05,2025-03-10,Active,
+P00402,C00485,Motor,Direct - Call Centre,283424,234.54,2023-11-19,Active,
+P00439,C00020,Household Contents,Direct - Call Centre,394072,134.08,2026-01-04,Active,
+P00369,C00465,Motor,Broker,250722,183.55,2024-09-10,Active,
+P00152,C00221,Portable Possessions,Bancassurance,73637,108.42,2023-08-11,Active,
+P00707,C00098,Motor,Bancassurance,309670,442.88,2025-10-21,Active,
+P00627,C00044,Personal Liability,Broker,5000000,193.55,2024-05-03,Active,
+P00030,C00056,Motor,Direct - Online/App,191083,112.69,2026-06-25,Active,
+P00239,C00102,Personal Liability,Broker,1000000,151.43,2024-01-16,Active,
+P00706,C00332,Household Contents,Broker,821828,257.22,2023-12-01,Active,
+P00324,C00416,Motor,Broker,271921,298.71,2025-12-17,Active,
+P00698,C00264,Motor,Broker,239623,286.36,2024-03-25,Active,
+P00633,C00270,Household Contents,Direct - Online/App,290327,167.48,2025-03-19,Active,
+P00380,C00159,Household Buildings,Direct - Call Centre,1350752,367.3,2024-12-23,Active,
+P00516,C00434,Household Contents,Broker,105878,39.01,2026-06-19,Active,
+P00031,C00180,Motor,Broker,190370,211.73,2024-05-27,Lapsed,2026-06-10
+P00728,C00174,Household Buildings,Bancassurance,762373,147.25,2023-08-09,Lapsed,2025-01-30
+P00351,C00307,Household Buildings,Direct - Call Centre,1462019,467.05,2023-03-22,Active,
+P00702,C00243,Motor,Broker,243752,279.0,2025-05-01,Lapsed,2026-05-20
+P00052,C00014,Motor,Bancassurance,252689,219.66,2025-07-05,Active,
+P00508,C00329,Motor,Broker,497421,633.22,2024-09-05,Lapsed,2025-10-23
+P00037,C00143,Motor,Direct - Online/App,452319,530.5,2023-08-31,Active,
+P00079,C00498,Household Contents,Direct - Online/App,406226,234.25,2025-02-24,Active,
+P00014,C00370,Household Buildings,Direct - Call Centre,1311025,207.74,2023-03-18,Active,
+P00059,C00015,Motor,Direct - Online/App,113859,134.5,2024-01-23,Active,
+P00234,C00076,Portable Possessions,Direct - Call Centre,62385,101.87,2023-12-21,Active,
+P00569,C00072,Household Contents,Direct - Call Centre,779886,450.06,2026-05-22,Active,
+P00641,C00448,Motor,Broker,430681,309.29,2025-01-09,Active,
+P00413,C00010,Motor,Direct - Call Centre,277134,357.69,2023-02-18,Active,
+P00479,C00415,Portable Possessions,Direct - Online/App,109993,106.47,2025-08-26,Active,
+P00194,C00236,Motor,Broker,514483,765.13,2024-01-22,Lapsed,2025-01-04
+P00385,C00201,Household Contents,Bancassurance,322459,183.7,2024-08-30,Active,
+P00405,C00468,Household Contents,Bancassurance,831711,260.54,2024-08-12,Lapsed,2025-12-07
+P00046,C00420,Motor,Direct - Call Centre,624946,408.98,2023-05-11,Active,
+P00488,C00293,Household Contents,Direct - Online/App,500252,253.1,2025-03-08,Active,
+P00025,C00080,Personal Liability,Broker,5000000,170.93,2023-03-01,Active,
+P00472,C00402,Household Contents,Direct - Online/App,815932,256.58,2025-01-09,Active,
+P00257,C00230,Personal Liability,Direct - Call Centre,1000000,229.95,2023-05-22,Active,
+P00561,C00071,Motor,Bancassurance,137041,75.19,2025-05-21,Lapsed,2025-12-04
+P00610,C00324,Household Buildings,Direct - Online/App,2121715,509.38,2026-07-31,Active,
+P00682,C00033,Motor,Direct - Call Centre,634576,511.43,2024-07-26,Active,
+P00492,C00145,Household Buildings,Direct - Call Centre,3067912,836.82,2023-04-14,Active,
+P00548,C00042,Motor,Broker,455360,679.35,2024-04-17,Active,
+P00247,C00091,Motor,Direct - Call Centre,536634,285.57,2026-05-25,Active,
+P00123,C00057,Household Buildings,Broker,2134234,697.83,2025-08-25,Active,
+P00207,C00269,Personal Liability,Direct - Online/App,2000000,95.37,2023-12-24,Active,
+P00177,C00295,Motor,Broker,236805,348.59,2026-03-07,Active,
+P00608,C00275,Household Contents,Direct - Call Centre,163628,73.34,2024-08-28,Active,
+P00001,C00288,Motor,Direct - Online/App,141219,86.9,2025-09-12,Active,
+P00227,C00179,Personal Liability,Direct - Online/App,5000000,237.45,2025-09-09,Lapsed,2025-12-10
+P00710,C00442,Household Contents,Broker,504901,153.73,2025-06-10,Active,
+P00250,C00322,Motor,Broker,96950,70.42,2023-08-11,Active,
+P00470,C00386,Motor,Bancassurance,312762,347.86,2026-01-19,Active,
+P00109,C00227,Personal Liability,Direct - Online/App,2000000,118.74,2026-07-12,Active,
+P00427,C00040,Household Buildings,Broker,1618178,290.48,2023-09-19,Active,
+P00006,C00182,Motor,Bancassurance,460027,428.52,2026-02-06,Active,
+P00261,C00290,Household Contents,Broker,543776,183.02,2025-09-13,Lapsed,2026-03-26
+P00703,C00130,Portable Possessions,Direct - Online/App,134407,218.62,2024-09-21,Active,
+P00314,C00097,Portable Possessions,Broker,133101,212.52,2024-05-25,Active,
+P00060,C00093,Motor,Broker,605162,387.34,2025-12-27,Active,
+P00346,C00199,Household Buildings,Broker,1471481,216.2,2023-07-05,Cancelled,2023-08-27
+P00048,C00315,Motor,Direct - Call Centre,301775,243.93,2024-04-12,Lapsed,2025-01-10
+P00651,C00404,Motor,Bancassurance,398400,263.42,2025-12-04,Active,
+P00303,C00284,Motor,Broker,316496,242.73,2023-11-03,Active,
+P00602,C00033,Motor,Broker,89570,45.33,2025-01-15,Lapsed,2025-10-26
+P00287,C00020,Household Contents,Direct - Call Centre,575435,183.69,2024-11-03,Active,
+P00744,C00221,Motor,Direct - Online/App,351191,326.31,2023-03-30,Cancelled,2025-04-02
+P00737,C00266,Portable Possessions,Direct - Online/App,48361,66.99,2025-09-15,Lapsed,2026-05-23
+P00313,C00334,Household Contents,Direct - Call Centre,708762,251.91,2025-12-07,Active,
+P00729,C00499,Motor,Broker,189863,122.57,2024-09-23,Active,
+P00727,C00198,Motor,Broker,97567,87.81,2025-03-29,Active,
+P00742,C00218,Household Buildings,Broker,1226232,387.1,2025-03-13,Active,
+P00460,C00023,Motor,Direct - Call Centre,270709,391.0,2026-02-19,Active,
+P00461,C00211,Portable Possessions,Broker,32909,30.33,2026-06-08,Active,
+P00384,C00340,Motor,Direct - Online/App,447577,545.23,2025-03-10,Active,
+P00018,C00308,Personal Liability,Broker,1000000,131.65,2023-04-01,Cancelled,2026-05-19
+P00600,C00319,Portable Possessions,Broker,126888,152.1,2026-07-18,Active,
+P00043,C00288,Motor,Broker,457641,536.29,2024-07-22,Active,
+P00657,C00322,Portable Possessions,Direct - Online/App,90007,126.71,2023-01-30,Active,
+P00692,C00103,Motor,Broker,395791,440.66,2025-08-25,Active,
+P00664,C00069,Motor,Direct - Call Centre,102734,74.73,2023-11-03,Active,
+P00719,C00189,Motor,Direct - Online/App,116214,137.75,2023-06-25,Lapsed,2023-10-07
+P00512,C00284,Motor,Bancassurance,97374,93.98,2026-01-07,Active,
+P00077,C00380,Portable Possessions,Direct - Call Centre,112447,179.71,2023-01-11,Active,
+P00142,C00393,Motor,Broker,467619,318.6,2025-07-23,Active,
+P00708,C00147,Household Buildings,Direct - Call Centre,857467,180.72,2024-08-18,Active,
+P00586,C00312,Motor,Direct - Online/App,578542,835.48,2025-10-28,Lapsed,2026-03-10
+P00726,C00490,Motor,Direct - Online/App,177586,178.8,2026-01-15,Lapsed,2026-05-18
+P00153,C00090,Motor,Broker,646733,821.41,2026-04-27,Lapsed,2026-07-05
+P00033,C00285,Motor,Direct - Call Centre,107997,70.59,2025-01-06,Lapsed,2025-05-21
+P00016,C00496,Motor,Bancassurance,137630,180.43,2023-06-03,Active,
+P00436,C00379,Household Contents,Broker,730671,410.56,2023-01-27,Active,
+P00499,C00083,Portable Possessions,Bancassurance,39771,37.36,2025-10-29,Active,
+P00506,C00129,Household Contents,Broker,245383,62.5,2024-09-04,Active,
+P00404,C00351,Motor,Direct - Online/App,495153,661.28,2024-04-23,Active,
+P00451,C00426,Motor,Direct - Online/App,308037,195.14,2023-02-19,Active,
+P00036,C00391,Motor,Broker,619045,543.71,2025-03-23,Active,
+P00226,C00398,Household Buildings,Direct - Call Centre,2420996,719.63,2023-02-23,Active,
+P00173,C00472,Household Buildings,Direct - Online/App,879691,247.69,2023-02-09,Active,
+P00242,C00079,Personal Liability,Direct - Call Centre,2000000,91.92,2026-01-04,Active,
+P00530,C00224,Household Buildings,Broker,3292300,1082.9,2026-05-30,Active,
+P00344,C00470,Motor,Bancassurance,637732,925.69,2025-06-29,Lapsed,2026-05-12
+P00157,C00361,Motor,Broker,346604,347.53,2023-12-20,Lapsed,2024-10-05
+P00671,C00090,Motor,Broker,367399,377.8,2023-01-23,Active,
+P00659,C00396,Motor,Direct - Call Centre,244206,246.65,2025-12-11,Active,
+P00662,C00388,Household Buildings,Bancassurance,625584,135.48,2025-02-01,Active,
+P00507,C00027,Personal Liability,Bancassurance,2000000,110.0,2025-07-21,Active,
+P00735,C00474,Motor,Broker,180375,209.61,2025-03-18,Active,
+P00556,C00366,Household Buildings,Broker,3132281,471.16,2026-01-28,Lapsed,2026-04-26
+P00216,C00399,Motor,Broker,480197,641.85,2024-11-27,Lapsed,2025-06-03
+P00209,C00203,Household Contents,Broker,395967,147.59,2025-02-15,Lapsed,2025-12-16
+P00065,C00472,Motor,Direct - Call Centre,191432,174.21,2023-08-15,Active,
+P00011,C00217,Motor,Broker,139235,150.23,2026-04-28,Lapsed,2026-07-28
+P00624,C00096,Household Buildings,Broker,3166363,918.51,2025-03-25,Active,
+P00179,C00294,Household Contents,Broker,859099,431.41,2026-07-16,Active,
+P00253,C00387,Motor,Broker,192747,160.77,2025-10-23,Active,
+P00606,C00256,Motor,Direct - Online/App,186892,183.01,2026-07-30,Active,
+P00604,C00429,Household Buildings,Broker,3400841,1040.1,2024-06-04,Active,
+P00262,C00330,Motor,Direct - Call Centre,443540,377.63,2023-05-02,Active,
+P00101,C00080,Household Buildings,Direct - Call Centre,3426638,1100.15,2023-01-01,Lapsed,2023-09-10
+P00168,C00380,Household Contents,Direct - Call Centre,801013,236.69,2024-06-10,Active,
+P00578,C00010,Household Contents,Broker,868048,315.5,2023-12-13,Active,
+P00315,C00165,Motor,Bancassurance,127630,113.63,2023-12-13,Active,
+P00519,C00064,Motor,Direct - Online/App,415893,429.63,2023-08-17,Active,
+P00650,C00183,Motor,Direct - Call Centre,387374,300.09,2023-07-28,Active,
+P00645,C00199,Personal Liability,Broker,2000000,187.95,2024-09-03,Active,
+P00447,C00193,Motor,Bancassurance,545527,817.77,2023-12-03,Cancelled,2024-04-10
+P00695,C00162,Motor,Direct - Call Centre,603227,547.06,2023-04-13,Active,
+P00368,C00494,Household Buildings,Direct - Call Centre,2670038,700.24,2026-04-01,Lapsed,2026-06-06
+P00146,C00149,Household Contents,Direct - Call Centre,432694,251.37,2025-09-04,Active,
+P00363,C00146,Portable Possessions,Broker,19482,30.3,2026-04-12,Active,
+P00660,C00298,Household Contents,Direct - Online/App,848838,245.23,2024-03-20,Active,
+P00740,C00043,Motor,Broker,623122,758.16,2025-06-04,Active,
+P00322,C00231,Motor,Bancassurance,120619,105.73,2023-05-09,Active,
+P00186,C00208,Motor,Direct - Online/App,177081,100.78,2024-02-29,Active,
+P00654,C00124,Motor,Direct - Call Centre,140326,170.82,2024-08-15,Lapsed,2025-05-31
+P00133,C00113,Household Buildings,Broker,1115841,144.56,2023-11-21,Active,
+P00631,C00035,Motor,Direct - Call Centre,569255,315.0,2024-06-05,Active,
+P00120,C00059,Motor,Direct - Call Centre,577639,849.25,2026-04-24,Active,
+P00736,C00409,Household Contents,Broker,219417,122.83,2024-01-19,Active,
+P00039,C00116,Household Buildings,Broker,3310233,1099.84,2024-10-12,Active,
+P00494,C00196,Motor,Direct - Call Centre,641816,666.1,2025-06-22,Active,
+P00688,C00151,Household Buildings,Broker,3287073,532.63,2026-02-18,Active,
+P00339,C00268,Motor,Bancassurance,488876,683.57,2026-06-01,Active,
+P00085,C00193,Household Buildings,Direct - Online/App,808483,176.78,2023-02-05,Active,
+P00225,C00464,Motor,Broker,351611,210.95,2025-03-18,Active,
+P00020,C00181,Household Buildings,Broker,3383154,573.96,2023-08-02,Lapsed,2025-03-24
+P00073,C00337,Portable Possessions,Direct - Online/App,29302,35.19,2024-02-04,Active,
+P00419,C00175,Household Contents,Bancassurance,451228,223.24,2025-12-02,Active,
+P00076,C00073,Motor,Direct - Online/App,499818,588.77,2025-10-09,Active,
+P00381,C00496,Household Contents,Direct - Call Centre,274938,137.11,2024-08-01,Active,
+P00386,C00067,Portable Possessions,Direct - Online/App,116975,156.89,2026-03-12,Lapsed,2026-05-16
+P00453,C00395,Household Buildings,Broker,2959655,685.23,2025-06-24,Active,
+P00265,C00166,Household Contents,Broker,898582,372.15,2024-03-16,Lapsed,2025-05-14
+P00041,C00220,Household Buildings,Direct - Online/App,1983132,444.37,2025-02-14,Lapsed,2026-06-12
+P00429,C00433,Household Buildings,Bancassurance,1167580,306.99,2024-03-03,Active,
+P00161,C00427,Motor,Direct - Call Centre,272052,357.99,2025-01-07,Lapsed,2026-01-06
+P00111,C00218,Motor,Direct - Online/App,85758,92.77,2025-05-07,Lapsed,2025-07-27
+P00304,C00489,Household Contents,Direct - Online/App,402369,134.64,2023-07-04,Active,
+P00713,C00444,Motor,Bancassurance,605810,694.25,2023-07-13,Active,
+P00049,C00346,Household Contents,Direct - Online/App,155945,64.0,2023-07-14,Active,
+P00510,C00448,Household Buildings,Broker,2085387,375.08,2024-12-03,Cancelled,2026-02-14
+P00019,C00160,Household Contents,Broker,563796,266.55,2024-11-11,Active,
+P00044,C00499,Personal Liability,Direct - Online/App,2000000,205.22,2024-04-28,Active,
+P00274,C00227,Personal Liability,Broker,1000000,208.87,2024-06-22,Active,
+P00444,C00317,Household Contents,Broker,310505,160.87,2024-01-06,Active,
+P00091,C00160,Household Contents,Broker,308563,92.93,2025-10-19,Active,
+P00276,C00156,Motor,Broker,150598,137.11,2025-12-28,Active,
+P00673,C00399,Household Buildings,Direct - Call Centre,2734701,730.17,2024-11-24,Lapsed,2025-12-26
+P00115,C00213,Motor,Direct - Online/App,352022,302.62,2026-04-19,Cancelled,2026-05-13
+P00329,C00044,Household Buildings,Broker,2374892,424.18,2025-06-05,Active,
+P00581,C00428,Personal Liability,Direct - Online/App,1000000,101.16,2024-08-14,Active,
+P00466,C00497,Motor,Bancassurance,292084,167.02,2023-01-12,Active,
+P00132,C00024,Motor,Broker,337782,323.1,2023-02-11,Active,
+P00002,C00169,Household Contents,Broker,755847,321.5,2023-05-16,Cancelled,2024-01-28
+P00228,C00180,Motor,Broker,190938,96.21,2025-08-02,Active,
+P00691,C00406,Household Contents,Broker,709921,315.56,2026-05-17,Active,
+P00694,C00022,Motor,Broker,277767,316.16,2026-06-26,Active,
+P00134,C00203,Motor,Direct - Call Centre,135376,195.27,2025-02-15,Lapsed,2026-04-19
+P00249,C00396,Motor,Broker,280855,320.96,2024-05-22,Active,
+P00284,C00159,Household Buildings,Direct - Online/App,2520541,554.65,2023-07-19,Lapsed,2026-01-25
+P00497,C00215,Motor,Bancassurance,307260,294.83,2026-01-29,Active,
+P00681,C00070,Household Contents,Direct - Call Centre,601537,187.31,2025-02-16,Lapsed,2026-03-13
+P00336,C00225,Personal Liability,Direct - Online/App,1000000,198.24,2024-04-09,Lapsed,2026-01-24
+P00440,C00339,Household Buildings,Broker,1769107,373.63,2024-12-13,Active,
+P00264,C00320,Portable Possessions,Direct - Call Centre,129290,170.2,2025-11-23,Active,
+P00143,C00071,Motor,Direct - Call Centre,488548,472.19,2024-02-01,Active,
+P00246,C00039,Household Buildings,Direct - Online/App,997876,204.0,2024-01-09,Active,
+P00028,C00115,Personal Liability,Direct - Call Centre,2000000,101.58,2023-05-04,Active,
+P00442,C00449,Household Contents,Direct - Online/App,156477,89.15,2023-02-22,Active,
+P00139,C00155,Motor,Broker,392238,560.94,2023-06-21,Active,
+P00364,C00130,Household Contents,Broker,872275,492.7,2024-01-11,Active,
+P00090,C00190,Household Buildings,Broker,2638249,575.68,2026-05-12,Active,
+P00024,C00109,Portable Possessions,Broker,67475,108.85,2025-07-12,Active,
+P00609,C00009,Household Contents,Broker,791798,446.21,2024-06-18,Cancelled,2025-07-22
+P00080,C00016,Motor,Direct - Online/App,425626,493.08,2023-11-04,Cancelled,2025-02-09
+P00126,C00348,Household Contents,Direct - Call Centre,615207,184.68,2026-01-19,Lapsed,2026-07-29
+P00705,C00386,Household Contents,Broker,338001,165.8,2025-02-20,Active,
+P00243,C00390,Motor,Broker,242562,235.74,2026-03-16,Active,
+P00371,C00448,Household Buildings,Direct - Call Centre,759079,233.81,2025-06-05,Active,
+P00684,C00398,Motor,Broker,102376,128.15,2023-09-21,Active,
+P00327,C00176,Motor,Direct - Online/App,388228,428.66,2023-07-06,Active,
+P00580,C00111,Portable Possessions,Direct - Online/App,138983,140.73,2025-06-23,Active,
+P00658,C00054,Household Buildings,Broker,1383668,179.53,2025-12-07,Active,
+P00505,C00447,Household Buildings,Bancassurance,757833,201.93,2023-09-22,Lapsed,2024-05-21
+P00409,C00344,Personal Liability,Broker,1000000,115.73,2025-09-24,Active,
+P00748,C00280,Motor,Broker,253085,233.16,2025-04-19,Lapsed,2026-07-20
+P00082,C00383,Motor,Direct - Online/App,317330,174.81,2024-10-10,Active,
+P00469,C00146,Motor,Broker,618680,458.43,2023-05-05,Active,
+P00232,C00331,Motor,Broker,528360,449.75,2023-07-08,Active,
+P00502,C00411,Motor,Direct - Online/App,584227,394.36,2023-05-08,Lapsed,2025-08-09
+P00038,C00294,Motor,Direct - Call Centre,613901,422.3,2025-07-24,Lapsed,2026-03-24
+P00141,C00109,Household Buildings,Broker,3235612,530.16,2026-01-29,Cancelled,2026-07-27
+P00547,C00198,Motor,Broker,284208,417.6,2025-02-02,Lapsed,2025-09-08
+P00638,C00284,Motor,Direct - Call Centre,450594,297.67,2024-08-31,Active,
+P00237,C00075,Motor,Direct - Call Centre,222172,155.16,2026-03-07,Active,
+P00417,C00487,Motor,Broker,417784,219.24,2025-02-24,Active,
+P00689,C00104,Portable Possessions,Direct - Online/App,39283,39.27,2025-07-30,Lapsed,2026-01-21
+P00605,C00464,Household Contents,Broker,492865,125.98,2024-08-17,Active,
+P00622,C00293,Personal Liability,Broker,1000000,198.16,2025-12-21,Active,
+P00584,C00482,Motor,Broker,578691,447.73,2024-05-27,Lapsed,2025-06-21
+P00674,C00351,Portable Possessions,Direct - Call Centre,146519,176.2,2023-05-24,Active,
+P00333,C00021,Portable Possessions,Broker,102668,164.97,2025-08-28,Cancelled,2025-11-26
+P00270,C00078,Personal Liability,Direct - Online/App,5000000,117.73,2024-11-13,Active,
+P00338,C00269,Household Buildings,Broker,799795,127.34,2024-04-24,Lapsed,2025-06-02
+P00092,C00370,Household Contents,Broker,785127,216.63,2025-04-24,Active,
+P00081,C00047,Household Buildings,Broker,2316296,316.18,2023-10-15,Active,
+P00704,C00019,Motor,Direct - Call Centre,162842,243.78,2025-02-18,Lapsed,2026-01-20
